@@ -1,0 +1,1334 @@
+{
+  "license_6_崔欣.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "崔欣",
+        "roman": "Cui Xin"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2001年7月25日",
+          "iso": "2001-07-25"
+        },
+        "gender": "F",
+        "nationality": "中国"
+      },
+      "address": "神奈川県文京区赤坂32-29 名古屋市ハイランズ569号室",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "",
+        "period": "5年",
+        "expiration_date": {
+          "original": "2026年02月16日",
+          "iso": "2026-02-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "在留資格に基づく就労活動のみ可 (Work permitted only within status of residence)"
+      },
+      "additional_info": {
+        "issuing_authority": "東京出入国在留管理局長",
+        "other_details": "Card valid until 2026年03月16日"
+      }
+    },
+    "reasoning": "I'll analyze this Japanese residence card (在留カード/zairyu card) image and extract the required information according to the requested format.\n\nThe image appears to be properly oriented, so no rotation is needed. Let me extract the key information:\n\nCard Information:\n- Name in Japanese: 崔欣\n- Name in Roman: Cui Xin\n- Birth Date: 2001年7月25日 (July 25, 2001)\n- Gender: 女 (Female/F)\n- Nationality/Region: 中国 (China)\n- Address: 神奈川県文京区赤坂32-29 名古屋市ハイランズ569号室\n- Status: 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)\n- Work Permission: 就労制限の有無 - 在留資格に基づく就労活動のみ可 (Work permitted only within status of residence)\n- Period of Stay: 5年 (5 years)\n- Expiration Date: 2026年02月16日 (February 16, 2026)\n- Card Number: Not clearly visible in the image\n- Renewal Permission Type: 在留期間更新許可 (東京出入国在留管理局長)\n- Permission Date: 2021年03月16日 (March 16, 2021)\n- Issuance Date: 2021年03月16日 (March 16, 2021)\n- Card Validity Period: 2026年03月16日まで有効 (Valid until March 16, 2026)\n\nLet me create the JSON structure based on this information."
+  },
+  "license_34_蔡峰.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "蔡峰",
+        "roman": "Cai Feng"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "1999年5月25日",
+          "iso": "1999-05-25"
+        },
+        "gender": "Female",
+        "nationality": "中国"
+      },
+      "address": "石川県荒川区六番町20-12 杉杉ヴィラ2516",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "",
+        "period": "5年",
+        "expiration_date": {
+          "original": "2026年03月16日",
+          "iso": "2026-03-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "在留資格に基づく就労活動のみ可"
+      },
+      "additional_info": {
+        "issuing_authority": "東京出入国在留管理局長",
+        "other_details": "MOJ marked"
+      }
+    },
+    "reasoning": "I need to analyze the Japanese residence card (在留カード/zairyu card) in the image and extract various pieces of information according to the specified format. The image appears to be correctly oriented, so no rotation is needed.\n\nLet me go through each section of the card:\n\n1. Name:\n   - Japanese: 蔡峰 \n   - Roman: Cai Feng\n\n2. Personal info:\n   - Birth date: Original format is 1999年5月25日 (May 25, 1999), ISO format would be 1999-05-25\n   - Gender: 女 F. (Female)\n   - Nationality: 中国 (China)\n\n3. Address:\n   - 石川県荒川区六番町20-12 杉杉ヴィラ2516\n\n4. Residence details:\n   - Status: 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)\n   - Card number: Not clearly visible in the image\n   - Period of stay: 5年 (5 years)\n   - Expiration date: Original format is 2026年03月16日, ISO format would be 2026-03-16\n   - Issue date: Original format is 2021年03月16日, ISO format would be 2021-03-16\n   - Work permission: 在留資格に基づく就労活動のみ可 (Work permitted within status of residence)\n\n5. Additional info:\n   - Issuing authority: Appears to be 東京出入国在留管理局長 (Tokyo Immigration Bureau)\n   - There's a MOJ (Ministry of Justice) mark visible\n\nI'll format this information into the requested JSON structure."
+  },
+  "license_51_孟香茹.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "孟香茹",
+        "roman": "Meng Xiang Ru"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2000年3月12日",
+          "iso": "2000-03-12"
+        },
+        "gender": "女 (Female)",
+        "nationality": "中国 (China)"
+      },
+      "address": "島根県大阪市4丁目38-45 嶺馬プレミアムコート6F58",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "Not clearly visible",
+        "period": "5年 (5 years)",
+        "expiration_date": {
+          "original": "2026年03月16日",
+          "iso": "2026-03-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "在留資格に基づく就労活動のみ可 (Work permitted within status scope)"
+      },
+      "additional_info": {
+        "issuing_authority": "東京出入国在留管理局長 (Tokyo Regional Immigration Bureau)",
+        "other_details": "Card valid until 2026-03-16, MOJ markings present"
+      }
+    },
+    "reasoning": "The image shows a Japanese Residence Card (在留カード/Zairyu Card). Let me extract the key information from this card:\n\n1. Name:\n   - Japanese: 孟香茹\n   - Roman: Meng Xiang Ru\n\n2. Personal Info:\n   - Birth Date: Original format is \"2000年3月12日\" which is March 12, 2000. ISO format would be \"2000-03-12\"\n   - Gender: 女 (Female/F)\n   - Nationality: 中国 (China)\n\n3. Address:\n   - 島根県大阪市4丁目38-45 嶺馬プレミアムコート6F58\n\n4. Residence Details:\n   - Status: 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)\n   - Card Number: It appears to be in the top right but is somewhat unclear in the image\n   - Period of Stay: 5年 (5 years)\n   - Expiration Date: Original format is \"2026年03月16日\" which is March 16, 2026. ISO format would be \"2026-03-16\"\n   - Issue Date: Original format is \"2021年03月16日\" which is March 16, 2021. ISO format would be \"2021-03-16\"\n   - Work Permission: 在留資格に基づく就労活動のみ可 (Work permitted within scope of status)\n\n5. Additional Info:\n   - Issuing Authority: 東京出入国在留管理局長 (Director of Tokyo Regional Immigration Bureau)\n   - Other Details: The card has \"MOJ\" (Ministry of Justice) markings\n\nNow I'll format this according to the requested JSON structure."
+  },
+  "license_19_牛毅.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "牛毅",
+        "roman": "Niu Yi"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2015年12月22日",
+          "iso": "2015-12-22"
+        },
+        "gender": "Female",
+        "nationality": "中国 (China)"
+      },
+      "address": "埼玉県板橋区南町3-33杉並栗幸パレス2679号室",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "Not clearly visible",
+        "period": "5年",
+        "expiration_date": {
+          "original": "2026年03月16日",
+          "iso": "2026-03-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "在留資格に基づく就労活動のみ可 (Work activities permitted only within status of residence)"
+      },
+      "additional_info": {
+        "issuing_authority": "MOJ (Ministry of Justice)",
+        "other_details": "在留期限更新許可 (東京出入国在留管理局長)"
+      }
+    },
+    "reasoning": "I'll analyze the Japanese residence card in the image and extract the requested information.\n\nFirst, the image appears to be properly oriented, so no rotation is needed.\n\nLet me extract the key information from this residence card:\n\nName:\n- Japanese: 牛毅\n- Roman: Niu Yi\n\nPersonal Info:\n- Birth Date: 2015年12月22日 (December 22, 2015) in ISO format: 2015-12-22\n- Gender: 女 (Female) - marked as \"F\"\n- Nationality: 中国 (China)\n\nAddress:\n- 埼玉県板橋区南町3-33杉並栗幸パレス2679号室 (Room 2679, Suginami Kuriyuki Palace, 3-33 Minami-machi, Itabashi-ku, Saitama Prefecture)\n\nResidence Details:\n- Status: 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)\n- Card Number: Not clearly visible in the image\n- Period of Stay: 5年 (5 years)\n- Expiration Date: 2026年02月16日 (February 16, 2026) in ISO format: 2026-02-16\n- Issue Date: 2021年03月16日 (March 16, 2021) in ISO format: 2021-03-16\n- Work Permission: 在留資格に基づく就労活動のみ可 (Work activities permitted only within status of residence)\n\nAdditional Info:\n- Issuing Authority: MOJ (Ministry of Justice - 東京出入国在留管理局長)\n- Other details: Card is valid until 2026年03月16日 (March 16, 2026)\n\nWait, I need to double-check the expiration date. Looking at the card again, I see:\n- The period of stay (在留期間) says 5年 (5 years)\n- The expiration date shows: 2026年02月16日\n- At the bottom, it states the card is valid until: 2026年03月16日\n\nI notice some inconsistency between 02月 (February) and 03月 (March) for the expiration date. Looking more closely at the date format, I see that it's actually showing:\n\nPERIOD OF STAY: 5年 (２０２６年０２月１６日) - The date in parentheses appears to be 2026-02-16\nAt the bottom: このカードは２０２６年０３月１６日まで有効です。(This card is valid until March 16, 2026)\n\nSo there's a distinction between the stay period end date and the physical card validity. To be accurate, I'll include both in the JSON."
+  },
+  "license_5_常雪.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "党雪",
+        "roman": "Chang Xue"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2020年9月23日",
+          "iso": "2020-09-23"
+        },
+        "gender": "Female",
+        "nationality": "中国 (China)"
+      },
+      "address": "兵庫県北九州市西新宿28-17 横浜市ハイランズ1906号室",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "Not clearly visible",
+        "period": "5年 (5 years)",
+        "expiration_date": {
+          "original": "2026年03月16日",
+          "iso": "2026-03-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "在留資格に基づく就労活動のみ可 (Work permitted within status of residence)"
+      },
+      "additional_info": {
+        "issuing_authority": "MOJ (Ministry of Justice)",
+        "other_details": "許可の種類: 在留期間更新許可 (Permission for renewal of period of stay)"
+      }
+    },
+    "reasoning": "This image shows a Japanese Residence Card (在留カード/zairyu card). The card appears to be correctly oriented, so I don't need to recommend rotation. Let me extract the key information from this residence card:\n\n1. Name:\n   - Japanese: 党雪 (Tang Xue)\n   - Roman: Chang Xue\n\n2. Birth date:\n   - Original format: 2020年9月23日 (September 23, 2020)\n   - ISO format: 2020-09-23\n\n3. Gender: 女 F (Female)\n\n4. Nationality: 中国 (China)\n\n5. Address: 兵庫県北九州市西新宿28-17 横浜市ハイランズ1906号室\n\n6. Status of Residence: 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)\n\n7. Card Number: The number appears to be at the top right but is somewhat blurred in the image.\n\n8. Period of Stay: 5年 (5 years)\n\n9. Expiration Date:\n   - Original: 2026年02月16日 (February 16, 2026)\n   - ISO: 2026-02-16\n\n10. Issue Date:\n    - Original: 2021年03月16日 (March 16, 2021)\n    - ISO: 2021-03-16\n\n11. Work Permission: 在留資格に基づく就労活動のみ可 (Work permitted within status of residence)\n\n12. Issuing Authority: Appears to be MOJ (Ministry of Justice) based on the stamp\n\n13. Card Validity Period: 2026年03月16日まで有効 (Valid until March 16, 2026)\n\nWait, I'm noticing a discrepancy. The expiration date appears in two places with different dates:\n- In the period of stay section, it shows (2026年02月16日)\n- In the period of validity section at the bottom, it shows 2026年03月16日まで有効\n\nI'll include both in my JSON, noting the discrepancy.\n\nActually, looking more carefully at the first date, I believe it's (2026年92月16日) which could be a misprint or unclear image. The most reliable expiration date is likely the one at the bottom stating valid until March 16, 2026.\n\nThe permit type appears to be 在留期間更新許可 (Permission for renewal of period of stay)"
+  },
+  "license_43_廖慧.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "廖慧",
+        "roman": "Liao Hui"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2003年4月13日",
+          "iso": "2003-04-13"
+        },
+        "gender": "Female",
+        "nationality": "China"
+      },
+      "address": "愛知県中野区北町33-3 煌宇ビルディング2303号室",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "Not clearly visible",
+        "period": "5年 (5 years)",
+        "expiration_date": {
+          "original": "2026年09月16日",
+          "iso": "2026-09-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "在留資格に基づく就労活動のみ可 (Work permitted within status limitations)"
+      },
+      "additional_info": {
+        "issuing_authority": "東京入国在留管理局長 (Tokyo Regional Immigration Bureau)",
+        "other_details": "Card valid until 2026-03-16"
+      }
+    },
+    "reasoning": "I'm analyzing a Japanese residence card (在留カード/zairyu card) and need to extract key information to create a JSON response. Let me carefully extract the details:\n\nFrom the image I can see:\n\n- Name in Japanese: 廖慧\n- Name in Roman letters: Liao Hui\n- Date of birth: 2003年4月13日 (April 13, 2003)\n- Gender: 女 F (Female)\n- Nationality/Region: 中国 (China)\n- Address: 愛知県中野区北町33-3 煌宇ビルディング2303号室\n- Status: 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)\n- Work permission: 就労制限の有無 - 在留資格に基づく就労活動のみ可 (Work permitted within status limitations)\n- Period of stay: 5年 (5 years)\n- Expiration date: 2026年9月16日 (September 16, 2026)\n- Card validity: 2026年03月16日まで有効 (Valid until March 16, 2026)\n- Permit type: 在留期間更新許可 (Permission for renewal of period of stay)\n- Issue date: 2021年03月16日 (March 16, 2021)\n- Card number: It seems to be shown but not clearly visible in the image\n\nI'm not sure about the issuing authority, but it appears to be from 東京入国在留管理局長 (Tokyo Immigration Bureau) based on text near the permit type.\n\nNow I'll format this into the required JSON structure:"
+  },
+  "license_33_韦天.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "韦天",
+        "roman": "Wei Tian"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "1990年7月1日",
+          "iso": "1990-07-01"
+        },
+        "gender": "Female",
+        "nationality": "中国"
+      },
+      "address": "佐賀県荒川区代官山29-4 雪和アパート6F21",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "",
+        "period": "5年",
+        "expiration_date": {
+          "original": "2026年9月16日",
+          "iso": "2026-09-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "在留資格に基づく就労活動のみ可 (Work permitted based on residence status)"
+      },
+      "additional_info": {
+        "issuing_authority": "東京入国在留管理局長",
+        "other_details": "Card valid until 2026年03月16日 (2026-03-16)"
+      }
+    },
+    "reasoning": "This image shows a Japanese residence card (在留カード). Let me extract the key information as requested:\n\n1. The image appears to be properly oriented, so no rotation is needed.\n\n2. Let me extract all the relevant information from the card:\n\n- Name in Japanese: 韦天\n- Name in Roman: Wei Tian\n- Birth Date: 1990年7月1日 (1990-07-01)\n- Gender: 女 (Female, indicated by F.)\n- Nationality/Region: 中国 (China)\n- Address: 佐賀県荒川区代官山29-4 雪和アパート6F21\n- Status of Residence: 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)\n- Card Number: (Not clearly visible in the image)\n- Period of Stay: 5年 (5 years)\n- Expiration Date: 2026年9月16日 (2026-09-16)\n- Work Permission: 就労制限の有無 在留資格に基づく就労活動のみ可 (Work permitted based on residence status)\n- Issue/Renewal Date: 2021年03月16日 (2021-03-16)\n- Card Valid Until: 2026年03月16日 (2026-03-16)\n- Issuing Authority: It appears to be 東京入国在留管理局長 (Tokyo Immigration Bureau)\n\nNow I'll format this information into the requested JSON structure."
+  },
+  "20250524-234013.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "王秀",
+        "roman": "Gong Yin"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2017年9月2日",
+          "iso": "2017-09-02"
+        },
+        "gender": "Female",
+        "nationality": "China"
+      },
+      "address": "北海道京都市8丁目43-27号インターナショナルマンション24号室",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services)",
+        "card_number": "Not clearly visible",
+        "period": "5年 (5 years)",
+        "expiration_date": {
+          "original": "2026年03月16日",
+          "iso": "2026-03-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "在留資格に基づく就労活動のみ可 (Work activities permitted within the scope of status of residence)"
+      },
+      "additional_info": {
+        "issuing_authority": "MOJ (Ministry of Justice)",
+        "other_details": "This card is valid until 2026年03月16日"
+      }
+    },
+    "reasoning": "I need to extract information from a Japanese residence card (zairyu card). Let me analyze the image and extract the required information in the requested JSON format.\n\nFrom the image, I can see:\n\n- Name in Japanese: 王秀 (Wang Xiu/Wong Sau/Ou Shu depending on reading)\n- Name in Roman letters: Gong Yin\n- Birth date: 2017年9月2日 (September 2, 2017) - this seems unusual as it would make the person very young\n- Gender: 女 (Female)\n- Nationality/Region: 中国 (China)\n- Address: 北海道京都市8丁目43-27号インターナショナルマンション24号室 (Room 24, International Mansion, 8-chome 43-27, Kyoto City, Hokkaido)\n- Status: 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services)\n- Period of stay: 5年 (5 years)\n- Expiration date: 2026年02月16日 (February 16, 2026)\n- Card number: Not clearly visible\n- Issue date: 2021年03月16日 (March 16, 2021)\n- Work permission: 在留資格に基づく就労活動のみ可 (Work activities permitted within the scope of status of residence)\n- Issuing authority: Appears to be MOJ (Ministry of Justice)\n\nLet me format this into the required JSON structure:"
+  },
+  "license_41_杜欣.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "杜欣",
+        "roman": "Du Xin"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2017年4月25日",
+          "iso": "2017-04-25"
+        },
+        "gender": "Female",
+        "nationality": "中国 (China)"
+      },
+      "address": "栃木県江戸川区白金43-35 豊島松エクスプレス1901号室",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "Not clearly visible",
+        "period": "5年 (5 years)",
+        "expiration_date": {
+          "original": "2026年03月16日",
+          "iso": "2026-03-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "在留資格に基づく就労活動のみ可 (Work permitted within status qualification)"
+      },
+      "additional_info": {
+        "issuing_authority": "東京出入国在留管理局長 (Director of Tokyo Regional Immigration Services Bureau)",
+        "other_details": "許可の種類: 在留期間更新許可"
+      }
+    },
+    "reasoning": "I'm looking at a Japanese residence card (在留カード) and need to extract the key information according to the specified format. Let me analyze the card systematically:\n\n1. Name:\n   - Japanese: 杜欣\n   - Roman: Du Xin\n\n2. Personal Info:\n   - Birth Date: Original format is \"2017年4月25日\" (April 25, 2017)\n   - Gender: 女 (F) - Female\n   - Nationality: 中国 (China)\n\n3. Address: 栃木県江戸川区白金43-35 豊島松エクスプレス1901号室\n\n4. Residence Details:\n   - Status: 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)\n   - Card Number: Appears to be at the top right but not clearly visible\n   - Period of Stay: 5年 (5 years)\n   - Expiration Date: Original format is \"2026年03月16日\" (March 16, 2026)\n   - Issue Date: \"2021年03月16日\" (March 16, 2021)\n   - Work Permission: 在留資格に基づく就労活動のみ可 (Work permitted within the scope of status of residence)\n\n5. Additional Info:\n   - Issuing Authority: 東京出入国在留管理局長 (Director of Tokyo Regional Immigration Services Bureau)\n   - Other Details: Card valid until 2026年03月16日 (March 16, 2026)\n\nLet me format this into the requested JSON structure:"
+  },
+  "license_10_邵香茹.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "邵香茹",
+        "roman": "Shao Xiang Ru"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2020年10月22日",
+          "iso": "2020-10-22"
+        },
+        "gender": "Female (F)",
+        "nationality": "中国 (China)"
+      },
+      "address": "埼玉県墨田区新宿42-24 秋田ビレッジ2842",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "Not clearly visible",
+        "period": "5年 (5 years)",
+        "expiration_date": {
+          "original": "2026年02月16日",
+          "iso": "2026-02-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "在留資格に基づく就労活動のみ可 (Work activities permitted based on residence status)"
+      },
+      "additional_info": {
+        "issuing_authority": "東京出入国在留管理局長 (Director of Tokyo Regional Immigration Services Bureau)",
+        "other_details": "Card valid until 2026年03月16日 (2026-03-16)"
+      }
+    },
+    "reasoning": "I need to extract detailed information from this Japanese residence card (zairyu card). Let me analyze the image and extract the relevant information.\n\nFrom the image I can see:\n\n1. Name:\n   - Japanese: 邵香茹\n   - Roman: Shao Xiang Ru\n\n2. Personal Information:\n   - Birth Date: 2020年10月22日 (October 22, 2020 in ISO format is 2020-10-22)\n   - Gender: 女 (Female, indicated by F)\n   - Nationality/Region: 中国 (China)\n\n3. Address:\n   埼玉県墨田区新宿42-24 秋田ビレッジ2842\n\n4. Residence Details:\n   - Status: 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)\n   - Card Number: Not clearly visible in the image\n   - Period of Stay: 5年 (5 years)\n   - Expiration Date: 2026年02月16日 (February 16, 2026 in ISO format is 2026-02-16)\n   - Issue Date: 2021年03月16日 (March 16, 2021 in ISO format is 2021-03-16)\n   - Work Permission: 在留資格に基づく就労活動のみ可 (Work activities permitted based on residence status)\n\n5. Additional Info:\n   - Issuing Authority: 東京出入国在留管理局長 (Director of Tokyo Regional Immigration Services Bureau)\n   - Card Valid Until: 2026年03月16日 (March 16, 2026)\n\nWait, I need to double-check the expiration date. The card shows:\n- Period of Stay: 5年 (2026年02日16日) - This appears to be February 16, 2026\n- Card Validity: 2026年03月16日 - This appears to be March 16, 2026\n\nLet me compile this into the requested JSON format."
+  },
+  "license_28_孟彤.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "孟彤",
+        "roman": "Meng Tong"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2014年11月25日",
+          "iso": "2014-11-25"
+        },
+        "gender": "Female (F)",
+        "nationality": "中国 (China)"
+      },
+      "address": "青森県品川区広尾22-12 桜ハウスマンション109号室",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "Not clearly visible in image",
+        "period": "5年 (5 years)",
+        "expiration_date": {
+          "original": "2026年02月16日",
+          "iso": "2026-02-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "在留資格に基づく就労活動のみ可 (Work activities permitted based on residence status)"
+      },
+      "additional_info": {
+        "issuing_authority": "Ministry of Justice (MOJ)",
+        "other_details": "Card valid until 2026年03月16日 (2026-03-16); Residence card renewal permission (在留期間更新許可)"
+      }
+    },
+    "reasoning": "I need to extract information from a Japanese residence card (在留カード). Let me go through the image and extract the required information in the requested JSON format.\n\nFrom the image, I can see:\n- Name in Japanese: 孟彤\n- Name in Roman letters: Meng Tong\n- Birth date: 2014年11月25日 (November 25, 2014)\n- Gender: 女 (Female)\n- Nationality/Region: 中国 (China)\n- Address: 青森県品川区広尾22-12 桜ハウスマンション109号室\n- Status of Residence: 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)\n- Work permission: 就労制限の有無 - appears to be work permitted based on residence status (在留資格に基づく就労活動のみ可)\n- Period of stay: 5年 (5 years)\n- Expiration date: 2026年02月16日 (February 16, 2026)\n- Card validity: This card is valid until 2026年03月16日 (March 16, 2026)\n- Issue date: 2021年03月16日 (March 16, 2021)\n- Card number: There appears to be a number at the top right but it's partially visible\n- Issuing authority: Appears to be Ministry of Justice (MOJ) based on the stamp\n\nNow I'll format this into the requested JSON structure:"
+  },
+  "license_36_毛璐.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "毛璐",
+        "roman": "Mao Lu"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2014年5月13日",
+          "iso": "2014-05-13"
+        },
+        "gender": "F",
+        "nationality": "中国"
+      },
+      "address": "神奈川県大田区一番町38-45 杉マークビル307号室",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "Not clearly visible",
+        "period": "5年",
+        "expiration_date": {
+          "original": "2026年9月16日",
+          "iso": "2026-09-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "就労制限の有無 在留資格に基づく就労活動のみ可"
+      },
+      "additional_info": {
+        "issuing_authority": "東京入国在留管理局長",
+        "other_details": "このカードは2026年03月16日まで有効です"
+      }
+    },
+    "reasoning": "I'm looking at a Japanese residence card (在留カード). Let me extract the key information from this card as requested:\n\n1. Determine if image needs rotation: No, the image is correctly oriented.\n\n2. Extract information:\n\nName:\n- Japanese: 毛璐\n- Roman: Mao Lu\n\nPersonal Info:\n- Birth date: 2014年5月13日 (May 13, 2014 in ISO: 2014-05-13)\n- Gender: 女 (Female, represented as \"F\")\n- Nationality: 中国 (China)\n\nAddress: 神奈川県大田区一番町38-45 杉マークビル307号室\n\nResidence Details:\n- Status: 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)\n- Card Number: There appears to be a number at the top right but it's not clearly visible\n- Period: 5年 (5 years)\n- Expiration Date: 2026年09月16日 (September 16, 2026 in ISO: 2026-09-16)\n- Issue Date: 2021年03月16日 (March 16, 2021 in ISO: 2021-03-16)\n- Work Permission: \"就労制限の有無 在留資格に基づく就労活動のみ可\" (Work permitted based on status of residence)\n\nAdditional Info:\n- Issuing Authority: 東京入国在留管理局長 (Director of Tokyo Regional Immigration Bureau)\n- Card Validity: このカードは2026年03月16日まで有効です (This card is valid until March 16, 2026)\n- Permit Type: 在留期間更新許可 (Period of Stay Extension Permit)\n\nLet me format this in the requested JSON structure."
+  },
+  "license_35_曾云.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "曾云",
+        "roman": "Zeng Yun"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2010年3月22日",
+          "iso": "2010-03-22"
+        },
+        "gender": "Female",
+        "nationality": "China"
+      },
+      "address": "秋田県大阪市花町20-36 滋賀ハイム2938",
+      "residence_details": {
+        "status": "Engineer/Specialist in Humanities/Int'l Services",
+        "card_number": "Not clearly visible",
+        "period": "5年",
+        "expiration_date": {
+          "original": "2026年02月16日",
+          "iso": "2026-02-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "Work permitted based on status of residence"
+      },
+      "additional_info": {
+        "issuing_authority": "東京出入国在留管理局長 (Tokyo Immigration Bureau)",
+        "other_details": "Card valid until 2026年03月16日 (2026-03-16)"
+      }
+    },
+    "reasoning": "I need to extract information from this Japanese residence card (在留カード/zairyu card). Let me analyze the image and extract the key information following the requested format.\n\nThe image shows a Japanese residence card with the following information:\n\n- Name: 曾云 (Japanese), Zeng Yun (Roman)\n- Date of Birth: 2010年3月22日 (March 22, 2010)\n- Gender: 女 (Female)\n- Nationality/Region: 中国 (China)\n- Address: 秋田県大阪市花町20-36 滋賀ハイム2938\n- Status: 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)\n- Work Permission: 就労制限の有無 在留資格に基づく就労活動のみ可 (Work permitted based on status of residence)\n- Period of Stay: 5年 (5 years)\n- Expiration Date: 2026年02月16日\n- Card Number: Not clearly visible in the image\n- Permission Type: 在留期間更新許可 (東京出入国在留管理局長) - Residence period renewal permit (Tokyo Immigration Bureau)\n- Issue Date: 2021年03月16日\n- Card Valid Until: 2026年03月16日\n\nLet me structure this information according to the requested JSON format."
+  },
+  "license_23_蒋强.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "蒋強",
+        "roman": "Jiang Qiang"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "1998年9月18日",
+          "iso": "1998-09-18"
+        },
+        "gender": "Female",
+        "nationality": "China"
+      },
+      "address": "東京都京都市三番町8-16 変媛パークビュー1333号室",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "Not clearly visible",
+        "period": "5年 (5 years)",
+        "expiration_date": {
+          "original": "2026年09月16日",
+          "iso": "2026-09-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "在留資格に基づく就労活動のみ可 (Only work activities permitted under residence status)"
+      },
+      "additional_info": {
+        "issuing_authority": "東京山入国在留管理局長",
+        "other_details": "Card valid until 2026年03月16日 (2026-03-16)"
+      }
+    },
+    "reasoning": "I need to analyze this Japanese residence card (在留カード/zairyu card) and extract the key information according to the format requested.\n\nFirst, let's analyze the details visible in the image:\n\n1. Name:\n   - Japanese: 蒋強 (Jiang Qiang)\n   - Roman: Jiang Qiang\n\n2. Personal Information:\n   - Birth Date: 1998年9月18日 (September 18, 1998)\n   - Gender: 女 (F) - Female\n   - Nationality: 中国 (China)\n\n3. Address:\n   - 東京都京都市三番町8-16 変媛パークビュー1333号室\n   - (Tokyo, Kyoto City, Sanban-cho 8-16, Henmedia Park View Room 1333)\n\n4. Residence Details:\n   - Status: 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)\n   - Card Number: Not clearly visible in the image\n   - Period of Stay: 5年 (5 years)\n   - Expiration Date: 2026年9月16日 (September 16, 2026)\n   - Work Permission: 就労制限の有無 - 在留資格に基づく就労活動のみ可 \n     (Work restrictions: Only activities permitted under residence status allowed)\n\n5. Additional Info:\n   - Issue Date: 2021年03月16日 (March 16, 2021)\n   - Card Valid Until: 2026年03月16日 (March 16, 2026)\n   - Issuing Authority: 東京山入国在留管理局長 (Tokyo-yama Immigration Services Bureau Chief)\n\nNow I'll format this information into the requested JSON structure, converting dates to ISO format."
+  },
+  "license_12_周静.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "周静",
+        "roman": "Zhou Jing"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2006年4月21日",
+          "iso": "2006-04-21"
+        },
+        "gender": "女 F.",
+        "nationality": "中国"
+      },
+      "address": "香川県礼崩市10丁目9-18 桜宮パーク13F93",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "MQK",
+        "period": "5年",
+        "expiration_date": {
+          "original": "2026年09月16日",
+          "iso": "2026-09-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "在留資格に基づく就労活動のみ可"
+      },
+      "additional_info": {
+        "issuing_authority": "東京出入国在留管理局長",
+        "other_details": "このカードは2026年03月16日まで有効です。"
+      }
+    },
+    "reasoning": "Let me examine the Japanese residence card in the image to extract the required information.\n\nThe card is properly oriented and readable. It's a 在留カード (Residence Card) issued by the Japanese government.\n\nLet me extract the information based on the required JSON structure:\n\n1. Name:\n   - Japanese: 周静\n   - Roman: Zhou Jing\n\n2. Personal Info:\n   - Birth Date: 2006年4月21日 (Year: 2006, Month: 4, Day: 21) -> ISO: 2006-04-21\n   - Gender: 女 (Female, indicated by F.)\n   - Nationality: 中国 (China)\n\n3. Address: 香川県礼崩市10丁目9-18 桜宮パーク13F93\n\n4. Residence Details:\n   - Status: 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)\n   - Card Number: Not clearly visible, but there is a number at the top right\n   - Period: 5年 (5 years)\n   - Expiration Date: 2026年02月16日 -> ISO: 2026-02-16\n   - Issue Date: 2021年03月16日 -> ISO: 2021-03-16\n   - Work Permission: 就労制限の有無 - 在留資格に基づく就労活動のみ可 (Work permitted based on status of residence)\n\n5. Additional Info:\n   - Issuing Authority: 東京出入国在留管理局長 (Tokyo Regional Immigration Bureau)\n   - Other Details: The card is valid until 2026年03月16日 (March 16, 2026)\n   - The card has \"MOJ\" (Ministry of Justice) stamps\n\nLet me check the dates again:\n- Card validity period: 2026年03月16日\n- Issue date: 2021年03月16日\n- Expiration date of stay: 2026年02月16日 (I need to check this again, it might be 09月 rather than 02月)\n\nLooking at the period of stay expiration date again, it appears to be 2026年9月16日 (or possibly 2026年09月16日). Let me include this corrected information."
+  },
+  "license_27_侯敏.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "伊敏",
+        "roman": "Hou Min"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "1996年9月17日",
+          "iso": "1996-09-17"
+        },
+        "gender": "Female",
+        "nationality": "中国 (China)"
+      },
+      "address": "福岡県新潟市東町40-4 左タワーグリーン2868号室",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "MOJ",
+        "period": "5年 (5 years)",
+        "expiration_date": {
+          "original": "2026年02月16日",
+          "iso": "2026-02-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "在留資格に基づく就労活動のみ可 (Work permitted within status of residence)"
+      },
+      "additional_info": {
+        "issuing_authority": "東京出入国在留管理局長 (Tokyo Regional Immigration Bureau)",
+        "other_details": "Card valid until 2026年03月16日"
+      }
+    },
+    "reasoning": "I'll analyze this Japanese residence card (在留カード/zairyu card) and extract the requested information in the specified JSON format.\n\nThe image shows a Japanese residence card with text in both Japanese and English. Let me extract the relevant information:\n\nName:\n- Japanese: 伊敏\n- Roman: Hou Min\n\nPersonal Info:\n- Birth Date: 1996年9月17日 (ISO: 1996-09-17)\n- Gender: 女 (F/Female)\n- Nationality: 中国 (China)\n\nAddress:\n- 福岡県新潟市東町40-4 左タワーグリーン2868号室\n\nResidence Details:\n- Status: 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)\n- Card Number: (Appears to be at the top right, but not fully visible)\n- Period of Stay: 5年 (5 years)\n- Expiration Date: 2026年02月16日 (ISO: 2026-02-16)\n- Issue Date: 2021年03月16日 (ISO: 2021-03-16)\n- Work Permission: 就労制限の有無 - 在留資格に基づく就労活動のみ可 (Work permitted within status of residence)\n\nAdditional Info:\n- Issuing Authority: 東京出入国在留管理局長 (Tokyo Regional Immigration Bureau)\n- Other Details: Card valid until 2026年03月16日 (2026-03-16)\n\nLet me format this into the requested JSON:"
+  },
+  "license_2_姜霞.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "姜霞",
+        "roman": "Jiang Xia"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "1997年6月12日",
+          "iso": "1997-06-12"
+        },
+        "gender": "Female (F)",
+        "nationality": "中国 (China)"
+      },
+      "address": "石川県北九州市6丁目29-47 康グリーンアパート1526",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "Not clearly visible",
+        "period": "5年 (5 years)",
+        "expiration_date": {
+          "original": "2026年03月16日",
+          "iso": "2026-03-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "就労資格に基づく就労活動のみ可 (Work permitted only within qualified activities)"
+      },
+      "additional_info": {
+        "issuing_authority": "東京入国在留管理局長 (Director of Tokyo Regional Immigration Bureau)",
+        "other_details": "Card validity period ends on 2026-03-16"
+      }
+    },
+    "reasoning": "Let me analyze this Japanese residence card (zairyu card) and extract the required information:\n\nThe image shows a Japanese residence card with the following information:\n\nName:\n- Japanese: 姜霞\n- Roman: Jiang Xia\n\nPersonal Info:\n- Birth Date: 1997年6月12日 (1997-06-12)\n- Gender: 女 (Female, F)\n- Nationality: 中国 (China)\n\nAddress:\n石川県北九州市6丁目29-47 康グリーンアパート1526 (Ishikawa Prefecture, Kitakyushu City, 6-chome 29-47, Kang Green Apartment 1526)\n\nResidence Details:\n- Status: 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)\n- Card Number: Not clearly visible in the image\n- Period of Stay: 5年 (5 years)\n- Expiration Date: 2026年9月2日16日 (seems to be an error in the card or my reading - should be 2026-09-16)\n- Card Validity Period: 2026年03月16日まで有効 (Valid until 2026-03-16)\n- Issue Date: 2021年03月16日 (2021-03-16)\n- Work Permission: 就労制限の有無 就労資格に基づく就労活動のみ可 (Work is permitted only within qualified activities)\n\nAdditional Info:\n- Issuing Authority: 東京入国在留管理局長 (Director of Tokyo Regional Immigration Bureau)\n- Other Details: The card has \"MOJ\" markings which stands for Ministry of Justice\n\nThere appears to be some inconsistency between the expiration date listed at one point (2026年9月2日16日) and the card validity period (2026年03月16日). The first one seems to have a formatting error. I'll include both in the JSON but note that the more likely correct one is March 16, 2026."
+  },
+  "license_55_郭静琪.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "郭静琪",
+        "roman": "Guo Jing Qi"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "1996年3月24日",
+          "iso": "1996-03-24"
+        },
+        "gender": "Female",
+        "nationality": "中国"
+      },
+      "address": "徳島県新浦市広尾27-50 目黒塘ハウス2003号室",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "Not visible in image",
+        "period": "5年",
+        "expiration_date": {
+          "original": "2026年02月16日",
+          "iso": "2026-02-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "在留資格に基づく就労活動のみ可"
+      },
+      "additional_info": {
+        "issuing_authority": "MOJ (出入国在留管理局長)",
+        "other_details": "このカードは2026年03月16日まで有効です"
+      }
+    },
+    "reasoning": "Let me analyze this Japanese residence card (在留カード/zairyu card) and extract the required information:\n\n1. Name:\n   - Japanese: 郭静琪\n   - Roman: Guo Jing Qi\n\n2. Personal Information:\n   - Birth Date: Original format is 1996年3月24日 (Year 1996, Month 3, Day 24), ISO format would be 1996-03-24\n   - Gender: 女 F. (Female)\n   - Nationality: 中国 (China)\n\n3. Address:\n   - 德島県新浦市広尾27-50 目黒塘ハウス2003号室\n   (Tokushima Prefecture, Ninoura City, Hiro 27-50, Meguro Pond House, Room 2003)\n\n4. Residence Details:\n   - Status: 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)\n   - Card Number: Not clearly visible in the image\n   - Period: 5年 (5 years)\n   - Expiration Date: Original format is 2026年02月16日, ISO would be 2026-02-16\n   - Issue Date: Original format is 2021年03月16日, ISO would be 2021-03-16\n   - Work Permission: 就労制限の有無: 在留資格に基づく就労活動のみ可 (Work is permitted only within activities authorized under the status of residence)\n\n5. Additional Info:\n   - Issuing Authority: MOJ (Ministry of Justice - 東京出入国在留管理局長)\n   - Other Details: The card is valid until 2026年03月16日 (2026-03-16)\n\nLet me organize this into the requested JSON format."
+  },
+  "license_58_方雅.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "方雅",
+        "roman": "Fang Ya"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2001年9月10日",
+          "iso": "2001-09-10"
+        },
+        "gender": "女 F",
+        "nationality": "中国"
+      },
+      "address": "山梨県豊島区10丁目17-20 福鉄タワー2798号室",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "Not clearly visible",
+        "period": "5年",
+        "expiration_date": {
+          "original": "2026年03月16日",
+          "iso": "2026-03-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "在留資格に基づく就労活動のみ可"
+      },
+      "additional_info": {
+        "issuing_authority": "MOJ",
+        "other_details": "Card valid until 2026年03月16日"
+      }
+    },
+    "reasoning": "Let me analyze this Japanese residence card (在留カード/zairyu card) image and extract the requested information:\n\nThe image shows a residence card from the Government of Japan for what appears to be a Chinese national. Let me extract the key information following the specified format:\n\nName:\n- Japanese: 方雅 (Fang Ya)\n- Roman: Fang Ya\n\nPersonal Info:\n- Birth Date: Original format is 2001年9月10日 (Year/Month/Day), which in ISO format is 2001-09-10\n- Gender: 女 (Female, indicated as \"F\")\n- Nationality: 中国 (China)\n\nAddress: 山梨県豊島区10丁目17-20 福鉄タワー2798号室\n\nResidence Details:\n- Status: 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)\n- Card Number: Not clearly visible in the image\n- Period of Stay: 5年 (5 years)\n- Expiration Date: Original format is 2026年03月16日, which in ISO format is 2026-03-16\n- Issue Date: 2021年03月16日, which in ISO format is 2021-03-16\n- Work Permission: 在留資格に基づく就労活動のみ可 (Work activities only permitted based on residence status)\n\nAdditional Info:\n- Issuing Authority: MOJ (Ministry of Justice) appears to be stamped on the card\n- Other Details: The card indicates the validity period until March 16, 2026"
+  },
+  "license_21_于雪.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "于雪",
+        "roman": "Yu Xue"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2025年5月28日",
+          "iso": "2025-05-28"
+        },
+        "gender": "Female",
+        "nationality": "中国 (China)"
+      },
+      "address": "徳島県北区六本木14-15 吉銅ガーデン1253",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "Not clearly visible",
+        "period": "5年 (5 years)",
+        "expiration_date": {
+          "original": "2026年02月16日",
+          "iso": "2026-02-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "在留資格に基づく就労活動のみ可 (Work activities only as permitted under status of residence)"
+      },
+      "additional_info": {
+        "issuing_authority": "東京出入国在留管理局長 (Tokyo Regional Immigration Bureau)",
+        "other_details": "Card valid until 2026年03月16日 (2026-03-16); Permit type: 在留期間更新許可 (Permission for extension of period of stay)"
+      }
+    },
+    "reasoning": "I need to extract information from this Japanese residence card (在留カード/zairyu card) and provide it in JSON format. Let me analyze the image:\n\nThe image shows a Japanese residence card with information in both Japanese and English. I'll extract the relevant details:\n\nName:\n- Japanese: 于雪\n- Roman: Yu Xue\n\nPersonal Information:\n- Birth Date: 2025年5月28日 (May 28, 2025 in ISO format: 2025-05-28)\n- Gender: 女 (Female)\n- Nationality: 中国 (China)\n\nAddress:\n- 徳島県北区六本木14-15 吉銅ガーデン1253 (Tokushima Prefecture, Kita-ku, Roppongi 14-15, Yoshido Garden 1253)\n\nResidence Details:\n- Status: 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)\n- Card Number: The card number appears to be at the top right, but it's not clearly visible in the image\n- Period of Stay: 5年 (5 years)\n- Expiration Date: 2026年02月16日 (February 16, 2026 in ISO format: 2026-02-16)\n- Issue Date: 2021年03月16日 (March 16, 2021 in ISO format: 2021-03-16)\n- Work Permission: 在留資格に基づく就労活動のみ可 (Work activities only as permitted under the status of residence)\n\nAdditional Info:\n- Issuing Authority: 東京出入国在留管理局長 (Director of the Tokyo Regional Immigration Bureau)\n- The card is valid until: 2026年03月16日 (March 16, 2026)\n- Permit Type: 在留期間更新許可 (Permission for extension of period of stay)\n\nLet me organize this into the requested JSON format.\n\nWait, I need to check a few details:\n1. The birth date appears to be 2025-05-28, which is in the future. This is unusual but I'll report what's in the document.\n2. I see two different expiration dates: 2026年02月16日 and 2026年03月16日. I'll use the one that appears next to \"期間\" (period)."
+  },
+  "license_26_史涵.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "史涵",
+        "roman": "Shi Han"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "1999年3月16日",
+          "iso": "1999-03-16"
+        },
+        "gender": "Female",
+        "nationality": "中国 (China)"
+      },
+      "address": "広島県台東区代官山37-40中ガーデンビルディング1708号室",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "Not clearly visible",
+        "period": "5年 (5 years)",
+        "expiration_date": {
+          "original": "2026年02月16日",
+          "iso": "2026-02-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "在留資格に基づく就労活動のみ可 (Work activities only as permitted under status of residence)"
+      },
+      "additional_info": {
+        "issuing_authority": "東京出入国在留管理局長 (Director of Tokyo Regional Immigration Services Bureau)",
+        "other_details": "Card valid until 2026年03月16日 (2026-03-16); Permit type: 在留期間更新許可 (Permission for extension of period of stay)"
+      }
+    },
+    "reasoning": "Let me analyze this Japanese residence card (在留カード/zairyu card) to extract the required information:\n\nLooking at the card, I can see:\n\n1. Name: \n   - Japanese: 史涵\n   - Roman: Shi Han\n\n2. Personal info:\n   - Birth date: 1999年3月16日 (March 16, 1999)\n   - Gender: 女 F (Female)\n   - Nationality: 中国 (China)\n\n3. Address: 広島県台東区代官山37-40中ガーデンビルディング1708号室\n   (Room 1708, Naka Garden Building, 37-40 Daikanyama, Taito-ku, Hiroshima Prefecture)\n\n4. Residence details:\n   - Status: 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)\n   - Card number: This appears to be partially visible but not clearly legible\n   - Period of stay: 5年 (5 years)\n   - Expiration date: 2026年02月16日 (February 16, 2026)\n   - Issue date: 2021年03月16日 (March 16, 2021)\n   - Work permission: 在留資格に基づく就労活動のみ可 (Work activities only as permitted under status of residence)\n\n5. Additional info:\n   - Issuing authority: 東京出入国在留管理局長 (Director of Tokyo Regional Immigration Services Bureau)\n   - Card validity period: 2026年03月16日まで有効 (Valid until March 16, 2026)\n   - Permit type: 在留期間更新許可 (Permission for extension of period of stay)\n\nLet me format this into the requested JSON structure:"
+  },
+  "license_9_武宇.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "武宇",
+        "roman": "Wu Yu"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2006年6月12日",
+          "iso": "2006-06-12"
+        },
+        "gender": "Female",
+        "nationality": "中国 (China)"
+      },
+      "address": "埼玉県福岡市目黒33-38 銀ヴィラビル2843",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "Not clearly visible",
+        "period": "5年 (5 years)",
+        "expiration_date": {
+          "original": "2026年02月16日",
+          "iso": "2026-02-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "在留資格に基づく就労活動のみ可 (Work permitted only within status of residence)"
+      },
+      "additional_info": {
+        "issuing_authority": "MOJ (Ministry of Justice)",
+        "other_details": "Card valid until 2026年03月16日 (2026-03-16)"
+      }
+    },
+    "reasoning": "I need to extract information from a Japanese residence card (在留カード/zairyu card). Let me examine the image carefully and extract the relevant information based on the requested format.\n\nFrom the image, I can see:\n\n- Name in Japanese: 武宇 (Wu Yu in roman letters)\n- Date of birth: 2006年6月12日 (June 12, 2006)\n- Sex: 女 (F, Female)\n- Nationality/Region: 中国 (China)\n- Address: 埼玉県福岡市目黒33-38 銀ヴィラビル2843\n- Status: 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)\n- Period of stay: 5年 (5 years)\n- Expiration date: 2026年02月16日\n- Card validity period: 2026年03月16日まで有効\n- Issue date: 2021年03月16日\n- Card number: It seems to be somewhere on the card but I can't clearly read it from this image\n- Work permission: \"就労制限の有無\" section indicates \"在留資格に基づく就労活動のみ可\" (Work permitted only within status of residence)\n- Issuing authority: I can see \"MOJ\" which stands for Ministry of Justice\n\nNow I'll format this into the requested JSON structure:"
+  },
+  "license_42_董嫦曦.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "董姬曦",
+        "roman": "Dong Chang Xi"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "1997年12月12日",
+          "iso": "1997-12-12"
+        },
+        "gender": "F",
+        "nationality": "中国"
+      },
+      "address": "山梨県新潟市2丁目11-23 西栗栄タワー504号室",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "",
+        "period": "5年",
+        "expiration_date": {
+          "original": "2026年09月16日",
+          "iso": "2026-09-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "在留資格に基づく就労活動のみ可"
+      },
+      "additional_info": {
+        "issuing_authority": "東京出入国在留管理局長",
+        "other_details": "Card valid until 2026-03-16, Permission type: 在留期間更新許可 (Period of Stay Extension Permit)"
+      }
+    },
+    "reasoning": "I'm looking at a Japanese residence card (在留カード/zairyu card) image. Let me extract the information systematically:\n\nThe image seems to be correctly oriented, so no rotation is needed.\n\nLet me extract the key information to create the requested JSON structure:\n\n1. Name:\n   - Japanese: 董姬曦\n   - Roman: Dong Chang Xi\n\n2. Personal Information:\n   - Birth Date: 1997年12月12日 (Original format)\n   - ISO Format: 1997-12-12\n   - Gender: 女 (Female) / F \n   - Nationality: 中国 (China)\n\n3. Address:\n   山梨県新潟市2丁目11-23 西栗栄タワー504号室\n\n4. Residence Details:\n   - Status: 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)\n   - Card Number: (visible as \"番号\" but the specific number is not clearly visible in the image)\n   - Period: 5年 (5 years)\n   - Expiration Date: 2026年02月16日 (Original format) -> 2026-02-16\n   - Valid Until: 2026年03月16日 (Original format) -> 2026-03-16\n   - Issue Date: 2021年03月16日 (Original format) -> 2021-03-16\n   - Work Permission: 就労制限の有無 在留資格に基づく就労活動のみ可 (Work permitted only within status of residence)\n\n5. Additional Information:\n   - Issuing Authority: 東京出入国在留管理局長 (Tokyo Regional Immigration Bureau)\n   - Permission Type: 在留期間更新許可 (Period of Stay Extension Permit)\n\nLet me now format this into the requested JSON structure.\n\nWait - I need to double check the expiration date. I see \"在留期間\" (Period of Stay) showing \"5年(2026年02月16日)\" but then I also see \"このカードは 2026年03月16日まで有効です\" (This card is valid until March 16, 2026). Let me be careful with these dates.\n\nLooking again:\n- 在留期間 (Period of Stay): 5年 (2026年9月16日) - so September 16, 2026\n- このカードは 2026年03月16日まで有効です - Card valid until March 16, 2026\n- 交付年月日 (Issue Date): 2021年03月16日 - March 16, 2021"
+  },
+  "license_53_田彦妮.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "田彦妮",
+        "roman": "Tian Yan Ni"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2014年3月27日",
+          "iso": "2014-03-27"
+        },
+        "gender": "Female",
+        "nationality": "中国"
+      },
+      "address": "岡山県北区大崎41-44 江戸川マンション19F2",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "",
+        "period": "5年",
+        "expiration_date": {
+          "original": "2026年03月16日",
+          "iso": "2026-03-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "在留資格に基づく就労活動のみ可 (Work permitted only within activities allowed under residence status)"
+      },
+      "additional_info": {
+        "issuing_authority": "東京出入国在留管理局長",
+        "other_details": "MOJ markings present on the card"
+      }
+    },
+    "reasoning": "I see a Japanese residence card (在留カード/zairyu card) that contains various personal information. I need to extract the information according to the requested JSON format.\n\nLet me analyze the card information:\n\n1. Name:\n   - Japanese: 田彦妮\n   - Roman: Tian Yan Ni\n\n2. Personal Information:\n   - Birth Date: 2014年3月27日 (March 27, 2014)\n   - Gender: 女 (Female, indicated by \"F\")\n   - Nationality: 中国 (China)\n\n3. Address: 岡山県北区大崎41-44 江戸川マンション19F2\n\n4. Residence Details:\n   - Status: 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)\n   - Card Number: Not clearly visible in the image\n   - Period of Stay: 5年 (5 years)\n   - Expiration Date: 2026年03月16日 (March 16, 2026)\n   - Issue Date: 2021年03月16日 (March 16, 2021)\n   - Work Permission: 就労制限の有無 在留資格に基づく就労活動のみ可 (Work permitted only within activities allowed under residence status)\n\n5. Additional Info:\n   - Issuing Authority: 東京出入国在留管理局長 (Tokyo Immigration Bureau Director)\n   - Other Details: The card has \"MOJ\" markings (Ministry of Justice)\n\nNow I'll format this into the requested JSON structure:"
+  },
+  "license_56_侯佳.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "侯佳",
+        "roman": "Hou Jia"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2014年11月25日",
+          "iso": "2014-11-25"
+        },
+        "gender": "Female",
+        "nationality": "中国"
+      },
+      "address": "鳥取県北九州市北青山35-44板橋区タウン1702号室",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist/Humanities/Int'l Services)",
+        "card_number": "Not clearly visible",
+        "period": "5年",
+        "expiration_date": {
+          "original": "2026年09月16日",
+          "iso": "2026-09-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "就労資格に基づく就労活動のみ可 (Work permitted only within qualification)"
+      },
+      "additional_info": {
+        "issuing_authority": "MOJ (Ministry of Justice)",
+        "other_details": "在留期間更新許可 (Period of stay renewal permit), Card valid until 2026-03-16"
+      }
+    },
+    "reasoning": "I need to analyze this Japanese residence card (在留カード/zairyu card) and extract the required information in the specified JSON format.\n\nFirst, let me examine the image and extract the key information:\n\n1. Name:\n   - Japanese: 侯佳 (Hou Jia)\n   - Roman: Hou Jia\n\n2. Personal Info:\n   - Birth date: 2014年11月25日 (November 25, 2014) in ISO format: 2014-11-25\n   - Gender: 女 (F/Female)\n   - Nationality: 中国 (China)\n\n3. Address: 鳥取県北九州市北青山35-44板橋区タウン1702号室\n\n4. Residence Details:\n   - Status: 技術・人文知識・国際業務 (Engineer/Specialist/Humanities/Int'l Services)\n   - Card number: Not clearly visible\n   - Period: 5年 (5 years)\n   - Expiration date: 2026年09月16日 in ISO format: 2026-09-16\n   - Card validity: 2026年03月16日まで有効 (Valid until March 16, 2026)\n   - Issue date: 2021年03月16日 in ISO format: 2021-03-16\n   - Work permission: 就労制限の有無 就労資格に基づく就労活動のみ可 (Work permitted only within qualification)\n\n5. Additional Info:\n   - Issuing authority: MOJ (Ministry of Justice) stamp visible\n   - The card appears to be a renewal permit: 在留期間更新許可\n\nLet me now structure this information into the requested JSON format."
+  },
+  "license_37_徐弘文.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "徐弘文",
+        "roman": "Xu Hong Wen"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2014年2月3日",
+          "iso": "2014-02-03"
+        },
+        "gender": "Female",
+        "nationality": "China"
+      },
+      "address": "群馬県豊島区元麻布2-40 小ウィラ1723",
+      "residence_details": {
+        "status": "Engineer/Specialist in Humanities/Int'l Services",
+        "card_number": "",
+        "period": "5年",
+        "expiration_date": {
+          "original": "2026年02月16日",
+          "iso": "2026-02-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "在留資格に基づく就労活動のみ可 (Work permitted within status of residence)"
+      },
+      "additional_info": {
+        "issuing_authority": "東京出入国在留管理局長 (Tokyo Regional Immigration Services Bureau)",
+        "other_details": "Card valid until 2026年03月16日 (2026-03-16)"
+      }
+    },
+    "reasoning": "The image shows a Japanese residence card (在留カード/zairyu card). I'll extract the information as requested and format it in JSON.\n\nFrom the image, I can see:\n\n1. Name:\n   - Japanese: 徐弘文\n   - Roman: Xu Hong Wen\n\n2. Personal Info:\n   - Birth Date: 2014年2月3日 (February 3, 2014) in ISO: 2014-02-03\n   - Gender: 女 (Female)\n   - Nationality: 中国 (China)\n\n3. Address: 群馬県豊島区元麻布2-40 小ウィラ1723\n\n4. Residence Details:\n   - Status: 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)\n   - Card Number: Not clearly visible/not provided in the visible part\n   - Period: 5年 (5 years)\n   - Expiration Date: 2026年02月16日 in ISO: 2026-02-16\n   - Issue Date: 2021年03月16日 in ISO: 2021-03-16\n   - Work Permission: 在留資格に基づく就労活動のみ可 (Work permitted within status of residence)\n\n5. Additional Info:\n   - Issuing Authority: 東京出入国在留管理局長 (Director of Tokyo Regional Immigration Services Bureau)\n   - Other Details: The card is valid until 2026年03月16日 (March 16, 2026)\n\nNow I'll format this into the required JSON structure."
+  },
+  "license_48_武凌薇.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "武凌薇",
+        "roman": "Wu Ling Wei"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2006年9月10日",
+          "iso": "2006-09-10"
+        },
+        "gender": "Female",
+        "nationality": "中国 (China)"
+      },
+      "address": "千葉県練馬区新町17-16 杉並区アパート903号室",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "Not visible in image",
+        "period": "5年 (5 years)",
+        "expiration_date": {
+          "original": "2026年02月16日",
+          "iso": "2026-02-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "在留資格に基づく就労活動のみ可 (Work permitted only within activities authorized under the status of residence)"
+      },
+      "additional_info": {
+        "issuing_authority": "東京出入国在留管理局長 (Tokyo Regional Immigration Services Bureau Director)",
+        "other_details": "Card valid until 2026-03-16, MOJ (Ministry of Justice) stamp present"
+      }
+    },
+    "reasoning": "This image shows a Japanese Residence Card (在留カード/Zairyu Card). Let me extract the information from it:\n\n1. Name:\n   - Japanese: 武凌薇 (Wu Ling Wei)\n   - Roman: Wu Ling Wei\n\n2. Personal Info:\n   - Birth Date: 2006年9月10日 (September 10, 2006)\n   - Gender: 女 (Female/F)\n   - Nationality: 中国 (China)\n\n3. Address: 千葉県練馬区新町17-16 杉並区アパート903号室\n\n4. Residence Details:\n   - Status: 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)\n   - Card Number: Not clearly visible in the image\n   - Period of Stay: 5年 (5 years)\n   - Expiration Date: 2026年02月16日 (February 16, 2026)\n   - Issue Date: 2021年03月16日 (March 16, 2021)\n   - Work Permission: 就労制限の有無 - 在留資格に基づく就労活動のみ可 (Work permitted only within activities authorized under the status of residence)\n\n5. Additional Info:\n   - Issuing Authority: 東京出入国在留管理局長 (Tokyo Regional Immigration Services Bureau Director)\n   - Card Validity: 2026年03月16日まで有効 (Valid until March 16, 2026)\n   - MOJ stamp visible (Ministry of Justice)\n\nNow let me format this into the requested JSON structure."
+  },
+  "license_4_武涛.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "武涛",
+        "roman": "Wu Tao"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2020年10月31日",
+          "iso": "2020-10-31"
+        },
+        "gender": "Female",
+        "nationality": "中国 (China)"
+      },
+      "address": "香川県荒川区中日東11-43 瑞ハイツコート7F87",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "Not clearly visible",
+        "period": "5年 (5 years)",
+        "expiration_date": {
+          "original": "2026年03月16日",
+          "iso": "2026-03-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "在留資格に基づく就労活動のみ可 (Work permitted within status of residence scope)"
+      },
+      "additional_info": {
+        "issuing_authority": "東京出入国在留管理局長 (Tokyo Regional Immigration Services Bureau)",
+        "other_details": "MOJ (Ministry of Justice) stamp visible on card"
+      }
+    },
+    "reasoning": "I need to analyze this Japanese residence card (在留カード/zairyu card) and extract the key information in the requested JSON format. The image appears to be properly oriented, so I don't need to suggest rotation.\n\nLet me extract the key information from this residence card:\n\n1. Name:\n   - Japanese: 武涛\n   - Roman: Wu Tao\n\n2. Personal Info:\n   - Birth Date: 2020年10月31日 (October 31, 2020) - ISO format: 2020-10-31\n   - Gender: 女 (Female, denoted by F.)\n   - Nationality: 中国 (China)\n\n3. Address: 香川県荒川区中日東11-43 瑞ハイツコート7F87\n\n4. Residence Details:\n   - Status: 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)\n   - Card Number: Not clearly visible in the image\n   - Period of Stay: 5年 (5 years)\n   - Expiration Date: 2026年02月16日 (February 16, 2026) - ISO format: 2026-02-16\n   - Issue Date: 2021年03月16日 (March 16, 2021) - ISO format: 2021-03-16\n   - Work Permission: 就労制限の有無 - 在留資格に基づく就労活動のみ可 (Work permitted within the scope of the status of residence)\n\n5. Additional Info:\n   - Issuing Authority: MOJ (Ministry of Justice - 東京出入国在留管理局長)\n   - Other Details: The card is valid until 2026年03月16日 (March 16, 2026)\n\nThere appears to be a slight discrepancy in the expiry date - in one place it says 2026-02-16 and in another 2026-03-16. I'll use the date that appears in the \"PERIOD OF VALIDITY OF THIS CARD\" section, which is 2026-03-16."
+  },
+  "20250524-233937.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "黄保",
+        "roman": "Huang Ming Yuan"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2025年11月2日",
+          "iso": "2025-11-02"
+        },
+        "gender": "Female",
+        "nationality": "中国 (China)"
+      },
+      "address": "広島県安芸区3丁目3-31長崎ビレッジ401号室",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services)",
+        "card_number": "Not clearly visible",
+        "period": "5年 (5 years)",
+        "expiration_date": {
+          "original": "2026年02月16日",
+          "iso": "2026-02-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "MOK (Permitted)"
+      },
+      "additional_info": {
+        "issuing_authority": "出入国在留管理庁長官",
+        "other_details": "Card valid until 2026年03月16日 (2026-03-16)"
+      }
+    },
+    "reasoning": "This image shows a Japanese residence card (在留カード/zairyu card). I need to extract key information from it according to the specified format. Let me analyze the card:\n\nThe card appears to be properly oriented, so no rotation is needed.\n\nLet me extract the information:\n\n- Name in Japanese: 黄保 (from 氏名 field)\n- Name in Roman: Huang Ming Yuan\n\n- Birth date: 2025年11月2日 (November 2, 2025) - This seems unusual as it's a future date, which is likely an error or the card might be demonstrative/sample\n- Gender: 女 F (female)\n- Nationality: 中国 (China)\n\n- Address: 広島県安芸区3丁目3-31長崎ビレッジ401号室\n\n- Status of residence: 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services)\n- Card number: Not clearly visible\n- Period of stay: 5年 (5 years)\n- Expiration date: 2026年02月16日 (February 16, 2026)\n- Issue date: 2021年03月16日 (March 16, 2021)\n- Work permission: There appears to be \"MOK\" designation which typically means work is permitted\n\n- Validity period: 2026年03月16日まで有効 (Valid until March 16, 2026)\n\nConverting the dates to ISO format:\n- Birth date: 2025-11-02 (though this is strange as it's a future date)\n- Expiration date: 2026-02-16\n- Issue date: 2021-03-16\n\nNow I'll format this into the required JSON structure:"
+  },
+  "license_1_潘浩宇.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "潘浩宇",
+        "roman": "Pan Hao Yu"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2003年5月15日",
+          "iso": "2003-05-15"
+        },
+        "gender": "Female",
+        "nationality": "中国 (China)"
+      },
+      "address": "新潟県品川区八番町16-20 玉朗アパート2128号室",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "Not visible in image",
+        "period": "5年 (5 years)",
+        "expiration_date": {
+          "original": "2026年09月16日",
+          "iso": "2026-09-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "在留資格に基づく就労活動のみ可 (Work permitted within status of residence)"
+      },
+      "additional_info": {
+        "issuing_authority": "東京出入国在留管理局長 (Tokyo Regional Immigration Services Bureau)",
+        "other_details": "Card valid until 2026年03月16日 (2026-03-16)"
+      }
+    },
+    "reasoning": "I need to extract key information from this Japanese residence card (在留カード/zairyu card) and provide it in the requested JSON format. Let me carefully analyze the image:\n\nThe image shows a Japanese residence card with both Japanese and English text. The card appears to be correctly oriented, so I don't need to worry about rotation.\n\nLet me extract the information:\n\n1. Name:\n   - Japanese: 潘浩宇\n   - Roman: Pan Hao Yu\n\n2. Personal Info:\n   - Birth Date: 2003年5月15日 (May 15, 2003)\n   - Gender: 女 (F/Female)\n   - Nationality: 中国 (China)\n\n3. Address: 新潟県品川区八番町16-20 玉朗アパート2128号室\n\n4. Residence Details:\n   - Status: 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)\n   - Card Number: Not clearly visible in the image\n   - Period of Stay: 5年 (5 years)\n   - Expiration Date: 2026年9月16日 (September 16, 2026)\n   - Issue Date: 2021年03月16日 (March 16, 2021)\n   - Work Permission: 就労制限の有無 - 在留資格に基づく就労活動のみ可 (Work permitted within status of residence)\n\n5. Additional Info:\n   - Issuing Authority: 東京出入国在留管理局長 (Tokyo Regional Immigration Services Bureau)\n   - Other Details: Card valid until 2026年03月16日 (March 16, 2026)\n\nNow I'll format this into the requested JSON structure:"
+  },
+  "license_18_杜佳.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "杜佳",
+        "roman": "Du Jia"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "1992年3月23日",
+          "iso": "1992-03-23"
+        },
+        "gender": "Female",
+        "nationality": "中国 (China)"
+      },
+      "address": "福島県北区中目黒9-38 北海道パークビュー2407号室",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "Not clearly visible",
+        "period": "5年 (5 years)",
+        "expiration_date": {
+          "original": "2026年09月16日",
+          "iso": "2026-09-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "在留資格に基づく就労活動のみ可 (Only work activities based on residence qualification permitted)"
+      },
+      "additional_info": {
+        "issuing_authority": "東京出入国在留管理局長 (Tokyo Immigration Services Bureau Director)",
+        "other_details": "Card valid until 2026-03-16 (有効期限)"
+      }
+    },
+    "reasoning": "I need to extract information from a Japanese residence card (在留カード/zairyu card) and provide it in the requested JSON format. Let me analyze the image and extract the relevant information:\n\nThe image shows a Japanese residence card with the following information:\n\n- Name in Japanese: 杜佳\n- Name in Roman: Du Jia\n- Birth Date: 1992年3月23日 (March 23, 1992)\n- Sex/Gender: 女 F. (Female)\n- Nationality/Region: 中国 (China)\n- Address: 福島県北区中目黒9-38 北海道パークビュー2407号室\n- Status: 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)\n- Period of Stay: 5年 (5 years)\n- Expiration Date: 2026年09月16日 (September 16, 2026)\n- Card validity period: 2026年03月16日まで有効 (Valid until March 16, 2026)\n- Issue Date: 2021年03月16日 (March 16, 2021)\n- Card Number: Not clearly visible but appears to be at the top right\n- Work Permission: Based on qualification, only work activities permitted (\"在留資格に基づく就労活動のみ可\")\n- Permission type: 在留期間更新許可 (Permission for extension of period of stay)\n- Issuing authority: 東京出入国在留管理局長 (Tokyo Immigration Services Bureau Director)\n\nNow I'll format this information into the requested JSON structure:"
+  },
+  "license_14_李天磊.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "李天磊",
+        "roman": "Li Tian Lei"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2021年7月18日",
+          "iso": "2021-07-18"
+        },
+        "gender": "Female (F)",
+        "nationality": "China (中国)"
+      },
+      "address": "栃木県岡山市新宿35-8 岡山ヴィラ13F90",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "Not clearly visible",
+        "period": "5年 (5 years)",
+        "expiration_date": {
+          "original": "2026年09月16日",
+          "iso": "2026-09-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "在留資格に基づく就労活動のみ可 (Work permitted only within status qualification)"
+      },
+      "additional_info": {
+        "issuing_authority": "MOJ (東京出入国在留管理局長)",
+        "other_details": "Card valid until 2026年03月16日 (2026-03-16)"
+      }
+    },
+    "reasoning": "The image shows a Japanese residence card (在留カード/zairyu card). Let me extract the information from it:\n\n1. Name:\n   - Japanese: 李天磊 (Li Tian Lei)\n   - Roman: Li Tian Lei\n\n2. Personal Info:\n   - Birth Date: 2021年7月18日 (July 18, 2021) - ISO format: 2021-07-18\n   - Gender: 女 (Female/F)\n   - Nationality/Region: 中国 (China)\n\n3. Address:\n   - 栃木県岡山市新宿35-8 岡山ヴィラ13F90\n\n4. Residence Details:\n   - Status: 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)\n   - Card Number: Not clearly visible but appears to be mentioned as \"番号\" (No.)\n   - Period of Stay: 5年 (5 years)\n   - Expiration Date: 2026年9月16日 (September 16, 2026) - ISO format: 2026-09-16\n   - Issue Date: 2021年03月16日 (March 16, 2021) - ISO format: 2021-03-16\n   - Work Permission: 在留資格に基づく就労活動のみ可 (Work permitted only within the scope of the status of residence)\n\n5. Additional Info:\n   - Issuing Authority: 東京出入国在留管理局長 (Director of Tokyo Regional Immigration Bureau)\n   - Other Details: Card validity period until 2026年03月16日 (March 16, 2026)\n\nNote: There appears to be a discrepancy between the expiration date mentioned in one part of the card (2026年9月16日) and the validity period mentioned at the bottom (2026年03月16日). I'll include both in the JSON but prioritize the explicit expiration date.\n\nAlso, the birth date is listed as 2021-07-18, which seems unusual for an adult who holds a work visa. This could be an error on the card or in my reading, but I'll report what I see."
+  },
+  "license_29_史琪.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "史琪",
+        "roman": "Shi Qi"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2007年5月8日",
+          "iso": "2007-05-08"
+        },
+        "gender": "Female",
+        "nationality": "China"
+      },
+      "address": "千葉県神戸市中目黒7-34 ビレッジヴィラ2509",
+      "residence_details": {
+        "status": "Engineer/Specialist in Humanities/Int'l Services",
+        "card_number": "",
+        "period": "5年",
+        "expiration_date": {
+          "original": "2026年9月16日",
+          "iso": "2026-09-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "Work permitted based on residence qualification"
+      },
+      "additional_info": {
+        "issuing_authority": "Tokyo Regional Immigration Bureau",
+        "other_details": "Card valid until March 16, 2026"
+      }
+    },
+    "reasoning": "I need to extract information from this Japanese residence card (zairyu card). Let me go through each section carefully to identify all the required information.\n\nFrom the image I can see:\n- Name: 史琪 (Japanese), Shi Qi (Roman)\n- Birth Date: 2007年5月8日 (May 8, 2007)\n- Sex: 女 F (Female)\n- Nationality: 中国 (China)\n- Address: 千葉県神戸市中目黒7-34 ビレッジヴィラ2509\n- Status: 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)\n- Work permission: 就労制限の有無 在留資格に基づく就労活動のみ可 (Work permitted based on residence status)\n- Period of stay: 5年 (5 years)\n- Expiration date: 2026年9月16日\n- Card validity period: 2026年03月16日まで有効\n- Issue/renewal date: 2021年03月16日\n- Card number: I don't see a clear card number written out in digits\n\nLet me organize this into the JSON format requested."
+  },
+  "license_11_蔡雪慧.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "蔡雪慧",
+        "roman": "Cai Xue Hui"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2011年12月21日",
+          "iso": "2011-12-21"
+        },
+        "gender": "F",
+        "nationality": "中国"
+      },
+      "address": "山口県目黒区広尾7-36 高コンプレックス1147号室",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "Not clearly visible",
+        "period": "5年",
+        "expiration_date": {
+          "original": "2026年02月16日",
+          "iso": "2026-02-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "在留資格に基づく就労活動のみ可 (Work permitted within status of residence)"
+      },
+      "additional_info": {
+        "issuing_authority": "東京出入国在留管理局長 (Tokyo Regional Immigration Bureau)",
+        "other_details": "Card valid until 2026年03月16日 (2026-03-16)"
+      }
+    },
+    "reasoning": "I'm looking at a Japanese residence card (在留カード). Let me extract the information from this image:\n\n1. First, the card seems to be in the correct orientation, so I don't need to suggest rotation.\n\n2. Now, let me extract the key information:\n\nName:\n- Japanese: 蔡雪慧\n- Roman: Cai Xue Hui\n\nBirth Date:\n- Original: 2011年12月21日\n- ISO: 2011-12-21\n\nGender: 女 (Female/F)\n\nNationality: 中国 (China)\n\nAddress: 山口県目黒区広尾7-36 高コンプレックス1147号室\n\nStatus of Residence: 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)\n\nCard Number: The card shows \"番号\" (Number) but the actual number isn't clearly visible in the image.\n\nPeriod of Stay: 5年 (5 years)\n\nExpiration Date:\n- Original: 2026年02月16日\n- ISO: 2026-02-16\n\nWork Permission: 就労制限の有無 在留資格に基づく就労活動のみ可 (Work permitted within status of residence)\n\nIssue Date:\n- Original: 2021年03月16日\n- ISO: 2021-03-16\n\nIssuing Authority: 東京出入国在留管理局長 (Tokyo Regional Immigration Services Bureau)\n\nCard Validity Period: \n- Original: 2026年03月16日まで有効\n- ISO: 2026-03-16\n\nOther details: There appears to be an MOJ stamp and other official markings.\n\nNow I'll format this as a JSON object according to the requested structure."
+  },
+  "license_57_白博涛.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "白博涛",
+        "roman": "Bai Bo Tao"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2000年5月21日",
+          "iso": "2000-05-21"
+        },
+        "gender": "Female",
+        "nationality": "China"
+      },
+      "address": "鳥取県神戸市6丁目29-4 中星幸ハイツ1415号室",
+      "residence_details": {
+        "status": "Engineer/Specialist in Humanities/Int'l Services (技術・人文知識・国際業務)",
+        "card_number": "Not clearly visible",
+        "period": "5年 (5 years)",
+        "expiration_date": {
+          "original": "2026年9月16日",
+          "iso": "2026-09-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "在留資格に基づく就労活動のみ可 (Work permitted only within activities based on residence status)"
+      },
+      "additional_info": {
+        "issuing_authority": "東京入国在留管理局長 (Director of Tokyo Immigration Bureau)",
+        "other_details": "Card validity until 2026-03-16 (2026年03月16日まで有効)"
+      }
+    },
+    "reasoning": "I'll analyze this Japanese residence card image and extract the information as requested, following the instructions and providing the output in the requested JSON format.\n\nLooking at the card, I can see it's a Japanese residence card (在留カード/zairyu card). The card appears to be correctly oriented, so no rotation is needed.\n\nLet me extract the key information:\n\n1. Name:\n   - Japanese: 白博涛\n   - Roman: Bai Bo Tao\n\n2. Personal Info:\n   - Birth Date: 2000年5月21日 (May 21, 2000)\n   - Gender: 女 (F) - Female\n   - Nationality: 中国 (China)\n\n3. Address: 鳥取県神戸市6丁目29-4 中星幸ハイツ1415号室\n\n4. Residence Details:\n   - Status: 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)\n   - Card Number: (There's a number but it's not clearly visible in the top right corner)\n   - Period: 5年 (5 years)\n   - Expiration Date: 2026年9月16日 (September 16, 2026)\n   - Card Validity: 2026年03月16日まで有効 (Valid until March 16, 2026)\n   - Issue Date: 2021年03月16日 (March 16, 2021)\n   - Work Permission: 就労制限の有無 在留資格に基づく就労活動のみ可 (Work permitted only within activities based on residence status)\n\n5. Additional Info:\n   - Issuing Authority: 東京入国在留管理局長 (Director of Tokyo Immigration Bureau)\n   - Permit Type: 在留期間更新許可 (Period of Stay Extension Permit)\n\nThere seems to be a discrepancy between the two dates mentioned for expiration (September 16, 2026 vs March 16, 2026). The card validity date appears to be March 16, 2026, while another date mentioned is September 16, 2026. I'll include both in the JSON."
+  },
+  "license_13_沈明美.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "沈明美",
+        "roman": "Shen Ming Mei"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "1990年8月23日",
+          "iso": "1990-08-23"
+        },
+        "gender": "Female",
+        "nationality": "中国 (China)"
+      },
+      "address": "山梨県新潟市7丁目19-9 小メトロポリタンビルディング271号室",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "未記載 (Not clearly visible)",
+        "period": "5年 (5 years)",
+        "expiration_date": {
+          "original": "2026年02月16日",
+          "iso": "2026-02-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "在留資格に基づく就労活動のみ可 (Work permitted within status of residence)"
+      },
+      "additional_info": {
+        "issuing_authority": "東京出入国在留管理局長 (Director of Tokyo Regional Immigration Bureau)",
+        "other_details": "Card valid until 2026年03月16日 (March 16, 2026)"
+      }
+    },
+    "reasoning": "I need to analyze this Japanese residence card (在留カード) image and extract the information in the requested JSON format.\n\nLet me check the image orientation first - the card appears to be correctly oriented, so no rotation is needed.\n\nNow, I'll extract the information from the card:\n\n1. Name:\n   - Japanese: 沈明美\n   - Roman: Shen Ming Mei\n\n2. Personal Info:\n   - Birth date: 1990年8月23日 (August 23, 1990)\n   - Gender: 女 (Female, shown as F.)\n   - Nationality: 中国 (China)\n\n3. Address: \n   山梨県新潟市7丁目19-9 小メトロポリタンビルディング271号室\n   (Room 271, Small Metropolitan Building, 7-19-9, Niigata City, Yamanashi Prefecture)\n\n4. Residence Details:\n   - Status: 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)\n   - Card Number: I can see a number field but it's not clearly visible in the image\n   - Period of Stay: 5年 (5 years)\n   - Expiration Date: 2026年02月16日 (February 16, 2026)\n   - Issue Date: 2021年03月16日 (March 16, 2021)\n   - Work Permission: 就労制限の有無 - 在留資格に基づく就労活動のみ可 (Work permitted within status of residence)\n\n5. Additional Info:\n   - Issuing Authority: 東京出入国在留管理局長 (Director of Tokyo Regional Immigration Bureau)\n   - Other details: Card valid until 2026年03月16日 (March 16, 2026)\n\nNow I'll format this information into the requested JSON structure."
+  }
+}
