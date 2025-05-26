@@ -127,10 +127,10 @@ def extract_residence_card_info(image, ocr_text, max_retries=3):
                         1. First, determine if the image needs rotation and process accordingly.
                         2. Extract the json field information from the residence card.
                         3. Convert all dates to ISO format (YYYY-MM-DD) in the final output.
-                        4. Follow the OCR recognition results to correct information.
+                        4. Correct information based on OCR recognition results.
 
                         OCR Results:
-                        ###{ocr_text}###
+                        ###""" + ocr_text + """###
 
                         Response Format:
                         Provide a valid JSON object with the following structure(Do not include any non-JSON information):
@@ -173,7 +173,7 @@ def extract_residence_card_info(image, ocr_text, max_retries=3):
             ]
         }
 
-        print('user_message: ', user_message)
+        #print('user_message: ', user_message)
 
         # Inference config
         inference_config = {
@@ -299,7 +299,7 @@ def process_residence_card_images(directory_path="sample/"):
             try:
                 # extract info with ppocr
                 ocr_text = extract_residence_card_info_with_ppocr(file_path)
-                print("OCR result: " + ocr_text + "\n")
+                #print("OCR result: " + ocr_text + "\n")
 
                 # Open and process the image
                 with Image.open(file_path) as img:
