@@ -1,0 +1,1334 @@
+{
+  "license_6_崔欣.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "崔欣",
+        "roman": "Cui Xin"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2001年7月25日",
+          "iso": "2001-07-25"
+        },
+        "gender": "女 F",
+        "nationality": "中国"
+      },
+      "address": "神奈川県文京区赤坂32-29 名古屋市ハイランズ569号室",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 Engineer/Specialist in Humanities/Int'l Services",
+        "card_number": "",
+        "period": "5年",
+        "expiration_date": {
+          "original": "2026年02月16日",
+          "iso": "2026-02-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "就労制限の有無 在留資格に基づく就労活動のみ可"
+      },
+      "additional_info": {
+        "issuing_authority": "MOJ",
+        "other_details": "在留期間更新許可 (東京出入国在留管理局長), 2026年03月16日まで有効"
+      }
+    },
+    "reasoning": null
+  },
+  "license_34_蔡峰.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "蔡峰",
+        "roman": "Cai Feng"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "1999年5月25日",
+          "iso": "1999-05-25"
+        },
+        "gender": "女 F.",
+        "nationality": "中国"
+      },
+      "address": "石川県荒川区六番町20-12 杉杉ヴィラ2516",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "",
+        "period": "5年 (2026年02月16日)",
+        "expiration_date": {
+          "original": "2026年03月16日",
+          "iso": "2026-03-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "在留資格に基づく就労活動のみ可"
+      },
+      "additional_info": {
+        "issuing_authority": "東京出入国在留管理局長 (MOJ)",
+        "other_details": "在留期間更新許可"
+      }
+    },
+    "reasoning": null
+  },
+  "license_51_孟香茹.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "孟香茹",
+        "roman": "Meng Xiang Ru"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2000年3月12日",
+          "iso": "2000-03-12"
+        },
+        "gender": "女 F.",
+        "nationality": "中国"
+      },
+      "address": "島根県大阪市4丁目38-45 練馬プレミアムコート6F58",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 Engineer/Specialist in Humanities/Int'l Services",
+        "card_number": "MO",
+        "period": "5年 (2026年02月16日)",
+        "expiration_date": {
+          "original": "2026年03月16日",
+          "iso": "2026-03-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "在留資格に基づく就労活動のみ可"
+      },
+      "additional_info": {
+        "issuing_authority": "東京出入国在留管理局長",
+        "other_details": "労働制限の有無"
+      }
+    },
+    "reasoning": null
+  },
+  "license_19_牛毅.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "牛毅",
+        "roman": "Niu Yi"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2015年12月22日",
+          "iso": "2015-12-22"
+        },
+        "gender": "女 F",
+        "nationality": "中国"
+      },
+      "address": "埼玉県板橋区南町3-33杉並栗キパレス2679号室",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "",
+        "period": "5年 (2026年02月16日)",
+        "expiration_date": {
+          "original": "2026年03月16日",
+          "iso": "2026-03-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "在留資格に基づく就労活動のみ可"
+      },
+      "additional_info": {
+        "issuing_authority": "MOJ (Ministry of Justice)",
+        "other_details": "在留期間更新許可 (東京出入国在留管理局長)"
+      }
+    },
+    "reasoning": null
+  },
+  "license_5_常雪.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "常雪",
+        "roman": "Chang Xue"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2020年9月23日",
+          "iso": "2020-09-23"
+        },
+        "gender": "女 F",
+        "nationality": "中国"
+      },
+      "address": "兵庫県北九州市西新宿28-17 横浜市ハイランズ1906号室",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 Engineer/Specialist in Humanities/Int'l Services",
+        "card_number": "番号",
+        "period": "5年",
+        "expiration_date": {
+          "original": "2026年03月16日",
+          "iso": "2026-03-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "在留資格に基づく就労活動のみ可"
+      },
+      "additional_info": {
+        "issuing_authority": "MOJ",
+        "other_details": "許可の種類: 在留期間更新許可 (東京出入国在留管理局長)"
+      }
+    },
+    "reasoning": null
+  },
+  "license_43_廖慧.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "廖慧",
+        "roman": "Liao Hui"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2003年4月13日",
+          "iso": "2003-04-13"
+        },
+        "gender": "女 F",
+        "nationality": "中国"
+      },
+      "address": "愛知県中野区北町33-3 煌幸ビルディング2303号室",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "Not clearly visible",
+        "period": "5年",
+        "expiration_date": {
+          "original": "2026年09月16日",
+          "iso": "2026-09-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "就労制限の有無 在留資格に基づく就労活動のみ可"
+      },
+      "additional_info": {
+        "issuing_authority": "東京出入国在留管理局長",
+        "other_details": "Card valid until 2026年03月16日"
+      }
+    },
+    "reasoning": null
+  },
+  "license_33_韦天.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "韦天",
+        "roman": "Wei Tian"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "1990年7月1日",
+          "iso": "1990-07-01"
+        },
+        "gender": "女 (Female)",
+        "nationality": "中国 (China)"
+      },
+      "address": "佐賀県荒川区代官山29-4 雪和アパート6F21",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "",
+        "period": "5年 (5 years)",
+        "expiration_date": {
+          "original": "2026年02月16日",
+          "iso": "2026-02-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "就労制限の有無 在留資格に基づく就労活動のみ可 (Work permitted based on residence status)"
+      },
+      "additional_info": {
+        "issuing_authority": "東京入国在留管理局長 (Tokyo Regional Immigration Bureau)",
+        "other_details": "Card validity period: 2026年03月16日まで有効 (Valid until March 16, 2026)"
+      }
+    },
+    "reasoning": null
+  },
+  "20250524-234013.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "王秀",
+        "roman": "Gong Yin"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2017年9月2日",
+          "iso": "2017-09-02"
+        },
+        "gender": "女 F",
+        "nationality": "中国"
+      },
+      "address": "北海道京都市8丁目43-27 数インターナショナルマンション24号室",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 Engineer/Specialist in Humanities/Int'l Services",
+        "card_number": "MOJ",
+        "period": "5年 (2026年02月16日)",
+        "expiration_date": {
+          "original": "2026年03月16日",
+          "iso": "2026-03-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "在留資格に基づく就労活動のみ可"
+      },
+      "additional_info": {
+        "issuing_authority": "出入国在留管理庁長官",
+        "other_details": "在留期間更新許可"
+      }
+    },
+    "reasoning": null
+  },
+  "license_41_杜欣.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "杜欣",
+        "roman": "Du Xin"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2017年4月25日",
+          "iso": "2017-04-25"
+        },
+        "gender": "女 F.",
+        "nationality": "中国"
+      },
+      "address": "栃木県江戸川区白金43-35 豊島松エクスプレス1901号室",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 Engineer/Specialist in Humanities/Int'l Services",
+        "card_number": "番号 (not clearly visible)",
+        "period": "5年 (2026年02月16日)",
+        "expiration_date": {
+          "original": "2026年03月16日",
+          "iso": "2026-03-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "就労制限の有無 在留資格に基づく就労活動のみ可"
+      },
+      "additional_info": {
+        "issuing_authority": "MOJ (Ministry of Justice)",
+        "other_details": "許可の種類: 在留期間更新許可 (東京出入国在留管理局長)"
+      }
+    },
+    "reasoning": null
+  },
+  "license_10_邵香茹.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "邵香茹",
+        "roman": "Shao Xiang Ru"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2020年10月22日",
+          "iso": "2020-10-22"
+        },
+        "gender": "女 F",
+        "nationality": "中国"
+      },
+      "address": "埼玉県墨田区新宿42-24 秋田ビレッジ2842",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 Engineer/Specialist in Humanities/Int'l Services",
+        "card_number": "No information visible",
+        "period": "5年 (2026年02月16日)",
+        "expiration_date": {
+          "original": "2026年03月16日",
+          "iso": "2026-03-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "就労制限の有無 在留資格に基づく就労活動のみ可"
+      },
+      "additional_info": {
+        "issuing_authority": "東京出入国在留管理局長",
+        "other_details": "Card valid until 2026年03月16日"
+      }
+    },
+    "reasoning": null
+  },
+  "license_28_孟彤.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "孟彤",
+        "roman": "Meng Tong"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2014年11月25日",
+          "iso": "2014-11-25"
+        },
+        "gender": "女 F.",
+        "nationality": "中国"
+      },
+      "address": "青森県品川区広尾22-12 桜ハウスマンション109号室",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 Engineer/Specialist in Humanities/Int'l Services",
+        "card_number": "Not clearly visible",
+        "period": "5年 (2026年02月16日)",
+        "expiration_date": {
+          "original": "2026年03月16日",
+          "iso": "2026-03-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "在留資格に基づく就労活動のみ可"
+      },
+      "additional_info": {
+        "issuing_authority": "MOJ (Ministry of Justice)",
+        "other_details": "在留期間更新許可 (東京出入国在留管理局長)"
+      }
+    },
+    "reasoning": null
+  },
+  "license_36_毛璐.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "毛璐",
+        "roman": "Mao Lu"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2014年5月13日",
+          "iso": "2014-05-13"
+        },
+        "gender": "女 F",
+        "nationality": "中国"
+      },
+      "address": "神奈川県大田区一番町38-45杉マークビル307号室",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "MOJ",
+        "period": "5年",
+        "expiration_date": {
+          "original": "2026年09月16日",
+          "iso": "2026-09-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "就労制限の有無 在留資格に基づく就労活動のみ可"
+      },
+      "additional_info": {
+        "issuing_authority": "東京出入国在留管理局長",
+        "other_details": "このカードは2026年03月16日まで有効"
+      }
+    },
+    "reasoning": null
+  },
+  "license_35_曾云.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "曾云",
+        "roman": "Zeng Yun"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2010年3月22日",
+          "iso": "2010-03-22"
+        },
+        "gender": "女 F",
+        "nationality": "中国"
+      },
+      "address": "秋田県大阪市花町20-36 滋賀ハイム2938",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 Engineer/Specialist in Humanities/Int'l Services",
+        "card_number": "",
+        "period": "5年 (2026年02月16日)",
+        "expiration_date": {
+          "original": "2026年03月16日",
+          "iso": "2026-03-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "就労制限の有無 在留資格に基づく就労活動のみ可"
+      },
+      "additional_info": {
+        "issuing_authority": "東京出入国在留管理局長",
+        "other_details": "在留期間更新許可"
+      }
+    },
+    "reasoning": null
+  },
+  "license_23_蒋强.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "蒋強",
+        "roman": "Jiang Qiang"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "1998年9月18日",
+          "iso": "1998-09-18"
+        },
+        "gender": "F",
+        "nationality": "中国"
+      },
+      "address": "東京都京都市三番町8-16 愛媛パークビュー1333号室",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "MOJ",
+        "period": "5年",
+        "expiration_date": {
+          "original": "2026年03月16日",
+          "iso": "2026-03-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "就労制限の有無 在留資格に基づく就労活動のみ可"
+      },
+      "additional_info": {
+        "issuing_authority": "東京入国在留管理局長",
+        "other_details": "Card valid until 2026年03月16日"
+      }
+    },
+    "reasoning": null
+  },
+  "license_12_周静.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "周静",
+        "roman": "Zhou Jing"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2006年4月21日",
+          "iso": "2006-04-21"
+        },
+        "gender": "女 F.",
+        "nationality": "中国"
+      },
+      "address": "香川県丸亀市10丁目9-18桜宮パーク13F93",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 Engineer/Specialist in Humanities/Int'l Services",
+        "card_number": "No. [not clearly visible]",
+        "period": "5年 (2026年02月16日)",
+        "expiration_date": {
+          "original": "2026年03月16日",
+          "iso": "2026-03-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "就労制限の有無 在留資格に基づく就労活動のみ可"
+      },
+      "additional_info": {
+        "issuing_authority": "東京出入国在留管理局長",
+        "other_details": "許可の種類: 在留期間更新許可"
+      }
+    },
+    "reasoning": null
+  },
+  "license_27_侯敏.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "侯敏",
+        "roman": "Hou Min"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "1996年9月17日",
+          "iso": "1996-09-17"
+        },
+        "gender": "女 F.",
+        "nationality": "中国"
+      },
+      "address": "福岡県新潟市東町40-4 左タワーグリーン2868号室",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "MOJ",
+        "period": "5年 (2026年02月16日)",
+        "expiration_date": {
+          "original": "2026年03月16日",
+          "iso": "2026-03-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "就労制限の有無 在留資格に基づく就労活動のみ可"
+      },
+      "additional_info": {
+        "issuing_authority": "東京出入国在留管理局長",
+        "other_details": "許可の種類: 在留期間更新許可"
+      }
+    },
+    "reasoning": null
+  },
+  "license_2_姜霞.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "姜霞",
+        "roman": "Jiang Xia"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "1997年6月12日",
+          "iso": "1997-06-12"
+        },
+        "gender": "女 F",
+        "nationality": "中国"
+      },
+      "address": "石川県北九州市6丁目29-47 康グリーンアパート1526",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "",
+        "period": "5年 (2026年9月16日)",
+        "expiration_date": {
+          "original": "2026年03月16日",
+          "iso": "2026-03-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "就労制限の有無 在留資格に基づく就労活動のみ可"
+      },
+      "additional_info": {
+        "issuing_authority": "東京出入国在留管理局長",
+        "other_details": "許可の種類: 在留期間更新許可"
+      }
+    },
+    "reasoning": null
+  },
+  "license_55_郭静琪.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "郭静琪",
+        "roman": "Guo Jing Qi"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "1996年3月24日",
+          "iso": "1996-03-24"
+        },
+        "gender": "女 F.",
+        "nationality": "中国"
+      },
+      "address": "徳島県新潟市広尾27-50 目黒椿ハウス2003号室",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務",
+        "card_number": "",
+        "period": "5年",
+        "expiration_date": {
+          "original": "2026年03月16日",
+          "iso": "2026-03-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "在留資格に基づく就労活動のみ可"
+      },
+      "additional_info": {
+        "issuing_authority": "東京出入国在留管理局長",
+        "other_details": "MOJ"
+      }
+    },
+    "reasoning": null
+  },
+  "license_58_方雅.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "方雅",
+        "roman": "Fang Ya"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2001年9月10日",
+          "iso": "2001-09-10"
+        },
+        "gender": "女 F",
+        "nationality": "中国"
+      },
+      "address": "山梨県豊島区10丁目17-20 福鉄タワー2798号室",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "",
+        "period": "5年 (2026年02月16日)",
+        "expiration_date": {
+          "original": "2026年03月16日",
+          "iso": "2026-03-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "就労制限の有無 在留資格に基づく就労活動のみ可"
+      },
+      "additional_info": {
+        "issuing_authority": "東京出入国在留管理局長",
+        "other_details": "MOJ"
+      }
+    },
+    "reasoning": null
+  },
+  "license_21_于雪.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "于雪",
+        "roman": "Yu Xue"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2025年5月28日",
+          "iso": "2025-05-28"
+        },
+        "gender": "F",
+        "nationality": "中国"
+      },
+      "address": "徳島県北区六本木14-15 吉銅ガーデン1253",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "MOJ",
+        "period": "5年",
+        "expiration_date": {
+          "original": "2026年03月16日",
+          "iso": "2026-03-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "在留資格に基づく就労活動のみ可"
+      },
+      "additional_info": {
+        "issuing_authority": "東京出入国在留管理局長",
+        "other_details": "Card valid until 2026年03月16日"
+      }
+    },
+    "reasoning": null
+  },
+  "license_26_史涵.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "史涵",
+        "roman": "Shi Han"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "1999年3月16日",
+          "iso": "1999-03-16"
+        },
+        "gender": "女 F",
+        "nationality": "中国"
+      },
+      "address": "広島県台東区代官山37-40中ガーデンビルディング1708号室",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 Engineer/Specialist in Humanities/Int'l Services",
+        "card_number": "",
+        "period": "5年 (2026年02月16日)",
+        "expiration_date": {
+          "original": "2026年03月16日",
+          "iso": "2026-03-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "在留資格に基づく就労活動のみ可"
+      },
+      "additional_info": {
+        "issuing_authority": "東京出入国在留管理局長",
+        "other_details": "許可の種類: 在留期間更新許可"
+      }
+    },
+    "reasoning": null
+  },
+  "license_9_武宇.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "武宇",
+        "roman": "Wu Yu"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2006年6月12日",
+          "iso": "2006-06-12"
+        },
+        "gender": "女 F",
+        "nationality": "中国"
+      },
+      "address": "埼玉県福岡市目黒33-38 銀ヴィラビル2843",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "MOJ",
+        "period": "5年 (2026年02月16日)",
+        "expiration_date": {
+          "original": "2026年03月16日",
+          "iso": "2026-03-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "在留資格に基づく就労活動のみ可"
+      },
+      "additional_info": {
+        "issuing_authority": "東京出入国在留管理局長",
+        "other_details": "労働制限の有無"
+      }
+    },
+    "reasoning": null
+  },
+  "license_42_董嫦曦.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "董嬌曦",
+        "roman": "Dong Chang Xi"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "1997年12月12日",
+          "iso": "1997-12-12"
+        },
+        "gender": "女 F",
+        "nationality": "中国"
+      },
+      "address": "山梨県新潟市2丁目11-23 西栗栄タワー504号室",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 Engineer/Specialist in Humanities/Int'l Services",
+        "card_number": "MOJ",
+        "period": "5年",
+        "expiration_date": {
+          "original": "2026年02月16日",
+          "iso": "2026-02-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "就労制限の有無 在留資格に基づく就労活動のみ可"
+      },
+      "additional_info": {
+        "issuing_authority": "東京出入国在留管理局長",
+        "other_details": "このカードは 2026年03月16日まで有効です (Card valid until 2026-03-16)"
+      }
+    },
+    "reasoning": null
+  },
+  "license_53_田彦妮.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "田彦妮",
+        "roman": "Tian Yan Ni"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2014年3月27日",
+          "iso": "2014-03-27"
+        },
+        "gender": "女 F",
+        "nationality": "中国"
+      },
+      "address": "岡山県北区大崎41-44 江戸川マンション19F2",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 Engineer/Specialist in Humanities/Int'l Services",
+        "card_number": "",
+        "period": "5年",
+        "expiration_date": {
+          "original": "2026年03月16日",
+          "iso": "2026-03-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "就労制限の有無 在留資格に基づく就労活動のみ可"
+      },
+      "additional_info": {
+        "issuing_authority": "東京出入国在留管理局長",
+        "other_details": "Card valid until 2026年03月16日"
+      }
+    },
+    "reasoning": null
+  },
+  "license_56_侯佳.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "侯佳",
+        "roman": "Hou Jia"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2014年11月25日",
+          "iso": "2014-11-25"
+        },
+        "gender": "女 F",
+        "nationality": "中国"
+      },
+      "address": "鳥取県北九州市北青山35-44 板橋区タウン1702号室",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 Engineer/Specialist in Humanities/Int'l Services",
+        "card_number": "",
+        "period": "5年",
+        "expiration_date": {
+          "original": "2026年09月16日",
+          "iso": "2026-09-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "就労制限の有無 在留資格に基づく就労活動のみ可"
+      },
+      "additional_info": {
+        "issuing_authority": "MOJ",
+        "other_details": "Card validity period: 2026年03月16日まで有効 (Valid until 2026-03-16)"
+      }
+    },
+    "reasoning": null
+  },
+  "license_37_徐弘文.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "徐弘文",
+        "roman": "Xu Hong Wen"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2014年2月3日",
+          "iso": "2014-02-03"
+        },
+        "gender": "女 F.",
+        "nationality": "中国"
+      },
+      "address": "群馬県農島区元麻布2-40 小ウィラ1723",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "",
+        "period": "5年 (2026年02月16日)",
+        "expiration_date": {
+          "original": "2026年03月16日",
+          "iso": "2026-03-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "就労制限の有無 在留資格に基づく就労活動のみ可"
+      },
+      "additional_info": {
+        "issuing_authority": "東京出入国在留管理局長 MOJ",
+        "other_details": "許可の種類: 在留期間更新許可"
+      }
+    },
+    "reasoning": null
+  },
+  "license_48_武凌薇.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "武凌薇",
+        "roman": "Wu Ling Wei"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2006年9月10日",
+          "iso": "2006-09-10"
+        },
+        "gender": "女 F.",
+        "nationality": "中国"
+      },
+      "address": "千葉県練馬区新町17-16杉並区アパート903号室",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "",
+        "period": "5年 (2026年02月16日)",
+        "expiration_date": {
+          "original": "2026年03月16日",
+          "iso": "2026-03-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "就労制限の有無、在留資格に基づく就労活動のみ可"
+      },
+      "additional_info": {
+        "issuing_authority": "東京出入国在留管理局長 (MOJ)",
+        "other_details": "在留期間更新許可"
+      }
+    },
+    "reasoning": null
+  },
+  "license_4_武涛.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "武涛",
+        "roman": "Wu Tao"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2020年10月31日",
+          "iso": "2020-10-31"
+        },
+        "gender": "女 F.",
+        "nationality": "中国"
+      },
+      "address": "香川県荒川区中目黒11-43 瑞ハイツコート7F87",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "",
+        "period": "5年 (2026年02月16日)",
+        "expiration_date": {
+          "original": "2026年03月16日",
+          "iso": "2026-03-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "就労制限の有無 在留資格に基づく就労活動のみ可"
+      },
+      "additional_info": {
+        "issuing_authority": "東京出入国在留管理局長 MOJ",
+        "other_details": "許可の種類: 在留期間更新許可"
+      }
+    },
+    "reasoning": null
+  },
+  "20250524-233937.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "黄保",
+        "roman": "Huang Ming Yuan"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2025年11月2日",
+          "iso": "2025-11-02"
+        },
+        "gender": "女",
+        "nationality": "中国"
+      },
+      "address": "広島県安芸区3丁目3-31長崎ビレッジ401号室",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務",
+        "card_number": "MOK",
+        "period": "5年（2026年02月16日）",
+        "expiration_date": {
+          "original": "2026年03月16日",
+          "iso": "2026-03-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "在留資格に基づく就労活動のみ可"
+      },
+      "additional_info": {
+        "issuing_authority": "出入国在留管理庁長官",
+        "other_details": "有効期限: 2026年03月16日まで有効"
+      }
+    },
+    "reasoning": null
+  },
+  "license_1_潘浩宇.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "潘浩宇",
+        "roman": "Pan Hao Yu"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2003年5月15日",
+          "iso": "2003-05-15"
+        },
+        "gender": "女 (Female)",
+        "nationality": "中国 (China)"
+      },
+      "address": "新潟県品川区八番町16-20 玉朗アパート2128号室",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "",
+        "period": "5年 (5 years)",
+        "expiration_date": {
+          "original": "2026年03月16日",
+          "iso": "2026-03-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "就労制限の有無 在留資格に基づく就労活動のみ可 (Work permitted based on residence status)"
+      },
+      "additional_info": {
+        "issuing_authority": "東京入国在留管理局長",
+        "other_details": "MOJ (Ministry of Justice)"
+      }
+    },
+    "reasoning": null
+  },
+  "license_18_杜佳.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "杜佳",
+        "roman": "Du Jia"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "1992年3月23日",
+          "iso": "1992-03-23"
+        },
+        "gender": "女 F.",
+        "nationality": "中国"
+      },
+      "address": "福島県北区中目黒9-38 北海道パークビュー2407号室",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 Engineer/Specialist in Humanities/Int'l Services",
+        "card_number": "MOJ",
+        "period": "5年 (2026年02月16日)",
+        "expiration_date": {
+          "original": "2026年03月16日",
+          "iso": "2026-03-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "在留資格に基づく就労活動のみ可"
+      },
+      "additional_info": {
+        "issuing_authority": "東京出入国在留管理局長",
+        "other_details": "このカードは2026年03月16日まで有効です。"
+      }
+    },
+    "reasoning": null
+  },
+  "license_14_李天磊.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "李天磊",
+        "roman": "Li Tian Lei"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2021年7月18日",
+          "iso": "2021-07-18"
+        },
+        "gender": "女 (Female)",
+        "nationality": "中国 (China)"
+      },
+      "address": "栃木県岡山市新宿35-8 岡山ヴィラ13F90",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "Not clearly visible",
+        "period": "5年 (5 years)",
+        "expiration_date": {
+          "original": "2026年03月16日",
+          "iso": "2026-03-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "在留資格に基づく就労活動のみ可 (Work permitted only within status of residence)"
+      },
+      "additional_info": {
+        "issuing_authority": "MOJ (Ministry of Justice)",
+        "other_details": "Card valid until 2026年03月16日 (March 16, 2026)"
+      }
+    },
+    "reasoning": null
+  },
+  "license_29_史琪.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "史琪",
+        "roman": "Shi Qi"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2007年5月8日",
+          "iso": "2007-05-08"
+        },
+        "gender": "女 (Female)",
+        "nationality": "中国 (China)"
+      },
+      "address": "千葉県神戸市中目黒7-34ビレッジヴィラ2509",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "",
+        "period": "5年 (5 years)",
+        "expiration_date": {
+          "original": "2026年03月16日",
+          "iso": "2026-03-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "就労制限の有無 在留資格に基づく就労活動のみ可 (Work permitted only within status of residence)"
+      },
+      "additional_info": {
+        "issuing_authority": "東京出入国在留管理局長 (Tokyo Regional Immigration Bureau)",
+        "other_details": "許可の種類: 在留期間更新許可"
+      }
+    },
+    "reasoning": null
+  },
+  "license_11_蔡雪慧.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "蔡雪慧",
+        "roman": "Cai Xue Hui"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2011年12月21日",
+          "iso": "2011-12-21"
+        },
+        "gender": "女 F.",
+        "nationality": "中国"
+      },
+      "address": "山口県目黒区広尾7-36 高コンプレックス1147号室",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "No. [not clearly visible]",
+        "period": "5年",
+        "expiration_date": {
+          "original": "2026年02月16日",
+          "iso": "2026-02-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "就労制限の有無 在留資格に基づく就労活動のみ可"
+      },
+      "additional_info": {
+        "issuing_authority": "MOJ (Ministry of Justice)",
+        "other_details": "Card valid until 2026年03月16日 (2026-03-16), Permission type: 在留期間更新許可 (東京出入国在留管理局長)"
+      }
+    },
+    "reasoning": null
+  },
+  "license_57_白博涛.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "白博涛",
+        "roman": "Bai Bo Tao"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "2000年5月21日",
+          "iso": "2000-05-21"
+        },
+        "gender": "女 F",
+        "nationality": "中国"
+      },
+      "address": "鳥取県神戸市6丁目29-4 中星幸ハイツ1415号室",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services)",
+        "card_number": "MOJ",
+        "period": "5年",
+        "expiration_date": {
+          "original": "2026年9月16日",
+          "iso": "2026-09-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "就労制限の有無 在留資格に基づく就労活動のみ可"
+      },
+      "additional_info": {
+        "issuing_authority": "東京出入国在留管理局長",
+        "other_details": "このカードは2026年03月16日まで有効です (Valid until 2026-03-16)"
+      }
+    },
+    "reasoning": null
+  },
+  "license_13_沈明美.jpeg": {
+    "status": "success",
+    "data": {
+      "name": {
+        "japanese": "沈明美",
+        "roman": "Shen Ming Mei"
+      },
+      "personal_info": {
+        "birth_date": {
+          "original": "1990年8月23日",
+          "iso": "1990-08-23"
+        },
+        "gender": "女 F.",
+        "nationality": "中国"
+      },
+      "address": "山梨県新潟市7丁目19-9 小メトロポリタンビルディング271号室",
+      "residence_details": {
+        "status": "技術・人文知識・国際業務 Engineer/Specialist in Humanities/Int'l Services",
+        "card_number": "No. [not clearly visible]",
+        "period": "5年 (2026年02月16日)",
+        "expiration_date": {
+          "original": "2026年03月16日",
+          "iso": "2026-03-16"
+        },
+        "issue_date": {
+          "original": "2021年03月16日",
+          "iso": "2021-03-16"
+        },
+        "work_permission": "在留資格に基づく就労活動のみ可"
+      },
+      "additional_info": {
+        "issuing_authority": "東京出入国在留管理局長",
+        "other_details": "在留期間更新許可"
+      }
+    },
+    "reasoning": null
+  }
+}

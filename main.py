@@ -6,6 +6,8 @@ import logging
 from random import uniform
 from io import BytesIO
 from PIL import Image
+from paddleocr import PaddleOCR
+from paddleocr import TextRecognition
 
 # Configure logging
 logging.basicConfig(
@@ -18,7 +20,8 @@ logger = logging.getLogger(__name__)
 AWS_ACCESS_KEY_ID = os.getenv('AWS_ACCESS_KEY_ID')
 AWS_SECRET_ACCESS_KEY = os.getenv('AWS_SECRET_ACCESS_KEY')
 AWS_REGION = os.getenv('AWS_REGION', 'us-west-2')  # Default to us-west-2 if not set
-MODEL_CLAUDE_3_7 = 'us.anthropic.claude-3-7-sonnet-20250219-v1:0'
+MODEL_CLAUDE_3_7 = 'us.anthropic.claude-3-7-sonnet-20250219-v1:0'#'us.anthropic.claude-3-7-sonnet-20250219-v1:0'
+MODEL_CLAUDE_3_5 = 'us.anthropic.claude-3-5-sonnet-20241022-v2:0'
 
 # Initialize Bedrock client
 bedrock_runtime = boto3.client(
@@ -27,6 +30,12 @@ bedrock_runtime = boto3.client(
     aws_access_key_id=AWS_ACCESS_KEY_ID, 
     aws_secret_access_key=AWS_SECRET_ACCESS_KEY
 )
+
+# 初始化 PaddleOCR 实例
+ocr = PaddleOCR(
+    use_doc_orientation_classify=False,
+    use_doc_unwarping=False,
+    use_textline_orientation=False)
 
 def clean_json_string(s):
     """
@@ -56,7 +65,26 @@ def image_to_bytes(image):
     image.save(buffered, format="JPEG")
     return "jpeg", buffered.getvalue()
 
-def extract_residence_card_info(image, max_retries=3):
+
+def extract_residence_card_info_with_ppocr(file_path):
+    # 对示例图像执行 OCR 推理 
+    result = ocr.predict(input=file_path)
+
+    ocr_text = None
+        
+    # 可视化结果并保存 json 结果
+    for res in result:
+        # res.print()
+        #print('res model_settings',json.dumps(res.get('rec_texts'), ensure_ascii=False))
+        res.save_to_img("output")
+        res.save_to_json("output")
+
+        ocr_text = json.dumps(res.get('rec_texts'), ensure_ascii=False)
+
+    return ocr_text
+    
+
+def extract_residence_card_info(image, ocr_text, max_retries=3):
     """
     Extract residence card information using Claude 3.7 Sonnet model with reasoning
     """
@@ -99,6 +127,10 @@ def extract_residence_card_info(image, max_retries=3):
                         1. First, determine if the image needs rotation and process accordingly.
                         2. Extract the json field information from the residence card.
                         3. Convert all dates to ISO format (YYYY-MM-DD) in the final output.
+                        4. Follow the OCR recognition results to correct information.
+
+                        OCR Results:
+                        ###{ocr_text}###
 
                         Response Format:
                         Provide a valid JSON object with the following structure(Do not include any non-JSON information):
@@ -141,16 +173,18 @@ def extract_residence_card_info(image, max_retries=3):
             ]
         }
 
+        print('user_message: ', user_message)
+
         # Inference config
         inference_config = {
             "maxTokens": 4096,
-            "temperature": 1
+            "temperature": 0
         }
         
         # Enable reasoning with a 2000 token budget
         reasoning_config = {
             "thinking": {
-                "type": "enabled",
+                "type": "disabled",
                 "budget_tokens": 1024
             }
         }
@@ -170,7 +204,7 @@ def extract_residence_card_info(image, max_retries=3):
                     messages=[user_message],
                     system=system_message,
                     inferenceConfig=inference_config,
-                    additionalModelRequestFields=reasoning_config
+                    #additionalModelRequestFields=reasoning_config
                 )
                 
                 # Extract reasoning and final answer
@@ -263,9 +297,13 @@ def process_residence_card_images(directory_path="sample/"):
             logger.info(f"Processing image: {file_path}")
             
             try:
+                # extract info with ppocr
+                ocr_text = extract_residence_card_info_with_ppocr(file_path)
+                print("OCR result: " + ocr_text + "\n")
+
                 # Open and process the image
                 with Image.open(file_path) as img:
-                    result = extract_residence_card_info(img)
+                    result = extract_residence_card_info(img, ocr_text=ocr_text)
                 
                 results[image_file] = result
                 

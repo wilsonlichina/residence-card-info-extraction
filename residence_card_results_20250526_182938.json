@@ -1,0 +1,10 @@
+{
+  "license_6_崔欣.jpeg": {
+    "status": "error",
+    "message": "Error processing image: extract_residence_card_info() got an unexpected keyword argument 'ocr_results'"
+  },
+  "license_34_蔡峰.jpeg": {
+    "status": "error",
+    "message": "Error processing image: extract_residence_card_info() got an unexpected keyword argument 'ocr_results'"
+  }
+}
